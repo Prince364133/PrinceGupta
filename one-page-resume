@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Prince Kumar | Full-Stack Developer</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+  <style>* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  background: #f4f6f8;
+  color: #111;
+  line-height: 1.6;
+}
+
+.resume {
+  max-width: 900px;
+  margin: 40px auto;
+  background: #ffffff;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+.header {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+
+.header h1 {
+  font-size: 2.6rem;
+  font-weight: 700;
+}
+
+.header h2 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #444;
+  margin-top: 4px;
+}
+
+.location {
+  color: #666;
+  margin-top: 6px;
+}
+
+.contact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 12px;
+  font-size: 0.95rem;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+section h3 {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 4px;
+}
+
+.skills div {
+  margin-bottom: 10px;
+}
+
+.skills h4 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.experience h4 {
+  font-size: 1.05rem;
+  margin-bottom: 4px;
+}
+
+.meta {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+ul {
+  margin-top: 8px;
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 6px;
+}
+
+@media (max-width: 600px) {
+  .resume {
+    padding: 25px;
+  }
+
+  .header h1 {
+    font-size: 2rem;
+  }
+}
+  </style>
+<body>
+
+  <main class="resume">
+
+    <header class="header">
+      <h1>Prince Kumar</h1>
+      <h2>Full-Stack Developer | Product Engineer</h2>
+      <p class="location">Delhi, India</p>
+
+      <div class="contact">
+        <span>📧 monsterprince3633@gmail.com</span>
+        <span>📱 +91-6205170591</span>
+        <span>🔗 Portfolio / Projects available on request</span>
+      </div>
+    </header>
+
+    <section>
+      <h3>Professional Summary</h3>
+      <p>
+        Full-Stack Developer with hands-on experience building production-ready
+        web applications using React, TypeScript, and Node.js. Strong in REST APIs,
+        authentication systems, payments, admin dashboards, and AI-powered features.
+        Proven ability to ship complete systems end-to-end with real users and real
+        business constraints.
+      </p>
+    </section>
+
+    <section>
+      <h3>Technical Skills</h3>
+
+      <div class="skills">
+        <div>
+          <h4>Languages & Frameworks</h4>
+          <p>JavaScript (ES6+), TypeScript, React.js, Node.js, HTML5, CSS3</p>
+        </div>
+
+        <div>
+          <h4>Frontend Development</h4>
+          <p>Component-based UI, Responsive Design, State & Props Management</p>
+        </div>
+
+        <div>
+          <h4>Backend Development</h4>
+          <p>REST APIs, Authentication & Authorization, RBAC, Business Logic</p>
+        </div>
+
+        <div>
+          <h4>Databases & Storage</h4>
+          <p>MongoDB, Firebase (Auth, Firestore, Storage), PostgreSQL (basic)</p>
+        </div>
+
+        <div>
+          <h4>Payments & Integrations</h4>
+          <p>Razorpay, Wallet Systems, Transaction Logic, Third-Party APIs</p>
+        </div>
+
+        <div>
+          <h4>AI & Automation</h4>
+          <p>AI API Integrations, Prompt-based Generation, Speech Synthesis</p>
+        </div>
+
+        <div>
+          <h4>DevOps & Tools</h4>
+          <p>Git, GitHub, Deployment, CI/CD (basic), Postman, VS Code</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h3>Professional Experience</h3>
+
+      <div class="experience">
+        <h4>Full-Stack Developer / Product Engineer</h4>
+        <span class="meta">EdTech & SaaS Products | Jan 2024 – Present</span>
+        <ul>
+          <li>Designed and built full-stack applications using React, TypeScript, and Node.js</li>
+          <li>Developed secure REST APIs with authentication and role-based access control</li>
+          <li>Implemented Razorpay payment systems including wallet and transaction flows</li>
+          <li>Built admin dashboards for analytics, orders, and operations</li>
+          <li>Integrated AI APIs for content generation and productivity tools</li>
+          <li>Deployed and maintained production systems with real users</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h3>Key Projects</h3>
+
+      <ul>
+        <li><strong>EdTech Tutoring Platform:</strong> Student–teacher matching, payments, notifications, admin analytics</li>
+        <li><strong>Creator Analytics Platform:</strong> Dashboards for YouTube & Instagram with AI-assisted tools</li>
+        <li><strong>AI Content Generator:</strong> Academic summaries, questions, structured content workflows</li>
+        <li><strong>QR-Based Restaurant Ordering:</strong> Table-wise QR menu, live orders, payments, admin dashboard</li>
+        <li><strong>Internal LMS & Management Systems:</strong> Role-based access, admin tools, secure workflows</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3>Education</h3>
+      <p><strong>Senior Secondary Education (PCM + CS & Biology)</strong> – Delhi, India</p>
+      <p><strong>Diploma in Computer Applications</strong></p>
+      <p><strong>MD IT – Master Diploma in Computer Technology</strong></p>
+    </section>
+
+    <section>
+      <h3>Additional Strengths</h3>
+      <ul>
+        <li>End-to-end feature ownership</li>
+        <li>Strong problem-solving under constraints</li>
+        <li>Fast execution with production mindset</li>
+        <li>Independent ownership of complex systems</li>
+      </ul>
+    </section>
+
+  </main>
+
+</body>
+</html>
