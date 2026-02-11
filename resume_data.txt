@@ -1,0 +1,265 @@
+PRINCE KUMAR
+FOUNDER AND CEO OF Z SNAPY PRO
+
+TECH-DRIVEN ENTREPRENEUR | FULL-STACK DEVELOPER
+
+PRINCE KUMAR
+
+CONTACT
+DOB : 02/04/2006
++916205170591
+princeGupta3641@gmail.com
+
+Delhi dayalpur North East
+Delhi 110094
+MY PORTFOLIO click to view
+
+SKILLS
+
+Dynamic and growth-driven, I bring over 2 years of startup experience and 2+
+year in full-stack development, delivering robust digital solutions for businesses.
+I specialize in FlutterFlow, React, Node.js, Firebase, and Odoo, combining
+design and code to build scalable apps and websites.
+With a strong grasp of UI/UX design, Advanced features, and automation
+workflows, I help brands streamline operations and enhance user engagement.
+I’m also experienced in digital marketing, SEO, and using data analytics to drive
+smarter product decisions.
+Confident public speaker and problem solver, I’m passionate about
+transforming ideas into high-impact digital products — faster, smarter, better.
+Let’s collaborate and build what’s next.
+
+💡💻
+
+WORK EXPERIENCE
+
+Business Strategy & Startups
+
+Web & App Development (HTML, CSS,
+JavaScript, Node.js, React,firebase ,
+Supabase , Git, GitHub, Python ,
+flutterflow , odoo , wordpress .)
+AI Integration + Automation
+Digital Marketing & SEO
+Graphic Designing
+
+JOINCAB | APP Developer
+
+Skillyterns | App & Web Developer
+
+BERNOPIA | Web Developer
+
+Times Nova | Web Developer
+
+Worked with multiple early-stage startups and businesses, delivering fullstack web and app development solutions. My primary focus is on building
+scalable, user-friendly, and visually engaging platforms that align with each
+company’s unique goals. Collaborating directly with founders and teams, I
+contribute to product planning, UI/UX, backend systems, and technical
+strategy.
+
+Public Speaking & Communication
+Leadership & Team Management
+
+LANGUAGES
+English (Fluent)
+Hindi (Fluent)
+WHY I WANT TO WORK?
+I am deeply passionate about learning and
+leveraging my knowledge to drive realworld impact. My goal is to collaborate
+with a forward-thinking organization
+where I can apply my skills in technology,
+business strategy, and innovation to
+facilitate growth. I am committed to
+delivering fresh ideas, strong dedication,
+and meaningful contributions that support
+the company’s success and add long-term
+value to its objectives.
+
+Entrepreneurship & Startup Experience
+SnapShiksha (India) – Founder
+Launched an on-demand tutoring platform to connect students
+with home tutors within 30 minutes.
+Developed marketing strategies and AI-powered education tools.
+Led a team to scale operations and partnerships with local schools.
+
+Ree suu (Nepal) – Founder
+
+Z-Snappy (Nepal) – Founder
+
+Started a clothing brand
+focusing on trendy apparel.
+
+Built a food delivery app similar to
+Zomato and Swiggy.
+
+Gained initial traction but faced
+
+Managed logistics, vendor onboarding,
+and customer support.
+
+operational challenges, leading
+to closure.
+
+Operated for 2-3 months before
+pivoting focus to other ventures.
+
+TECH STACK & DEVELOPMENT SKILLS
+Frontend: HTML, CSS, JavaScript, FlutterFlow
+Backend & Database : Firebase , supabase,MongoDB
+ERP & CMS: Odoo (Website Builder, CRM, E-commerce, Admin Roles) WordPress , SHOPIFY & WooCommerce
+App Development: FlutterFlow
+Version Control: Git, GitHub
+API Integration: APIs, paypal ,Razorpay, Firebase all Connections
+Node.js, REST APIs, Authentication & Authorization, System Design
+HTML, CSS, JavaScript, React.js, typescript ,python,
+
+DESIGN & UI/UX
+
+Responsive Web & App Interfaces (Tailwind CSS, Material UI)
+UI/UX Prototyping with Figma & FlutterFlow
+
+BUSINESS & STRATEGY
+Full-stack App & E-commerce Website Development
+Startup Planning & MVP Development
+AI-Powered Product Ideation
+SEO Basics & Digital Marketing
+Tech Consulting for Small Businesses
+
+SOFT SKILLS
+Strong Public Speaking & Client Communication
+Team Collaboration & Time Management
+Fast Learning & Adaptability
+Business Development and Expansion
+Start-up devevlopmet
+Market Research and Analysis
+
+CERTIFICATIONS & COURSES
+Public Speaking (Online & Offline Courses Completed)
+Digital Marketing & AI Integration (Self-Taught via YouTube & Online Resources)
+
+EDUCATION
+science stream students PCMB
+Class 12 (PCMB, Science) – 60.01%
+Class 10 (80%)
+
+TECHNICAL & WEB DEVELOPMENT EXPERIENCE
+Over 2+ years of experience in web and app development, working closely with earlystage startups and small businesses to build full-stack digital products. Successfully
+delivered custom websites, e-commerce platforms, and mobile apps with scalable
+backend integrations. Specialized in using modern frameworks and tools like React,
+Node.js, FlutterFlow, Firebase, and Odoo ERP to meet business-specific needs.
+
+ACHIEVEMENTS
+State-Level Science Exhibition – Participant & Certificate Holder
+
+Zone-Level Science Exhibition – Trophy & Certificate Winner
+
+WROK & PROJECTS
+
+HOBBIES & INTEREST
+
+Developed multiple web-based applications integrating AI and automation.
+Created a portfolio website showcasing web development expertise.
+Portfolio Link: CLICK ME !
+Projects
+AI Content & App Generator Platform | 2024
+React.js, Node.js, AI APIs
+– Built a system where users generate summaries, questions, and PDFs by selecting
+class, subject, and chapter.
+– Automated content creation with structured outputs for students and teachers.
+SnapShiksha – Teacher On-Demand Platform | 2024
+Full Stack Web Application
+– Created a platform offering instant home and online tutoring services.
+– Implemented booking logic, teacher assignment, payment flow, and admin analytics.
+QR-Based Restaurant Ordering System | 2025
+Web App
+– Designed a table-wise QR ordering system with admin dashboards, payment tracking,
+and order analytics.
+– Enabled cash and online payment options with real-time order updates.
+
+Public Speaking & Debates
+Business ideas experiment
+Coding & AI Research
+Leadership & Team Building
+Self-development and life lessons books reading
+Diploma in Computer Applications
+MD IT – Master Diploma in Computer Technology
+
+🔧
+Technical Skills
+Full-Stack Development
+
+HTML, CSS, JavaScript
+React.js
+Node.js
+REST API Development
+Authentication & Authorization
+Role-Based Access Control (RBAC)
+Real-time Features & Notifications
+Backend & System Design
+API Architecture
+System Flow Design
+Scalable Backend Logic
+Admin Dashboards
+Data Validation & Security Basics
+Databases & Storage
+MongoDB
+Firebase (Auth, Firestore, Storage)
+PostgreSQL (basic)
+Local Storage & Session Handling
+Payments & Integrations
+Razorpay Payment Gateway
+Wallet Systems (Add / Withdraw Logic)
+QR-based Ordering Systems
+Third-party API Integrations
+AI & Automation
+AI Content Generation (Summaries, Questions, PDFs)
+AI API Integrations
+Prompt Engineering (practical, not theory)
+Automated Workflows
+Speech Synthesis & Voice Alerts
+DevOps & Deployment
+Website Deployment & Hosting
+Git & GitHub
+CI/CD (basic understanding)
+Domain & Server Management
+Product & Business Skills
+Startup & Entrepreneurship
+Startup Ideation & Validation
+Product Launch Execution
+MVP Building (Fast & Lean)
+Pricing Strategy (Low-cost, mass-market models)
+Market Targeting (Indian Education Sector)
+Product Management
+Feature Planning & Roadmapping
+User Flow & UX Logic
+Feedback-Driven Iteration
+Admin & Analytics Design
+Education-Tech Expertise
+Online & Offline Tutoring Models
+Learning Management Systems (LMS)
+Teacher-Student Matching Systems
+Curriculum-based Content Structuring
+Content & Branding Skills
+Content Creation
+YouTube Educational Content Creation
+Script Writing & Topic Research
+Reaction & Commentary Videos
+Short-form & Long-form Content Strategy
+Digital Presence
+Personal Brand Building
+EdTech Brand Development (SnapShiksha)
+Platform Growth Strategy
+Soft Skills (earned, not claimed)
+Extreme Self-Learning Ability
+Rapid Execution
+Problem-Solving Under Constraints
+Solo Product Ownership
+Decision Making Under Pressure
+Long-Term Vision with Short-Term Action
+
+📊
+
+🎥
+
+🧠
+
+

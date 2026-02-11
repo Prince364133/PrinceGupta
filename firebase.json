@@ -1,0 +1,53 @@
+{
+    "hosting": [
+        {
+            "site": "start-ups-64204",
+            "source": ".",
+            "ignore": [
+                "firebase.json",
+                "**/.*",
+                "**/node_modules/**"
+            ],
+            "frameworksBackend": {
+                "region": "us-central1"
+            },
+            "rewrites": [
+                {
+                    "source": "**",
+                    "function": {
+                        "functionId": "ssrstartups64204"
+                    }
+                }
+            ],
+            "webFramework": "next_ssr"
+        },
+        {
+            "site": "princegupta",
+            "source": ".",
+            "ignore": [
+                "firebase.json",
+                "**/.*",
+                "**/node_modules/**"
+            ],
+            "frameworksBackend": {
+                "region": "us-central1"
+            },
+            "rewrites": [
+                {
+                    "source": "**",
+                    "function": {
+                        "functionId": "ssrstartups64204"
+                    }
+                }
+            ],
+            "webFramework": "next_ssr"
+        }
+    ],
+    "firestore": {
+        "rules": "firestore.rules",
+        "indexes": "firestore.indexes.json"
+    },
+    "storage": {
+        "rules": "storage.rules"
+    }
+}

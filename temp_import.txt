@@ -1,0 +1,2 @@
+// Missing import in contact page
+import { FaInstagram } from 'react-icons/fa';

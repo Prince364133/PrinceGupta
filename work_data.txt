@@ -1,0 +1,2924 @@
+SnapShiksha
+Flagship ed-tech startup. On-demand home & online tutors, ₹99/hour model, student–teacher
+marketplace, payments, admin analytics.
+Status: Core business
+ZsanpyPro
+Hubsnap Creator OS
+Creator operating system for YouTube & Instagram:
+analytics, content tracking, content generation, profile dashboards.
+Status: Serious product (keep this)
+
+📞 +91-XXXXXXXXXX | ✉️ monsterprince3633@gmail.com | 🌐 SnapShiksha / Snap6 | 📍
+Delhi, India
+
+Professional Summary
+Entrepreneur and Full-Stack Developer with hands-on experience building education-tech
+platforms, automation tools, and AI-powered applications. Strong focus on real-world execution,
+rapid product development, and scalable systems. Proven ability to launch products from idea to
+deployment while managing business, tech, and growth independently.
+
+Technical Skills
+Backend & Architecture:​
+Node.js, REST APIs, Authentication & Authorization, System Design
+Frontend:​
+HTML, CSS, JavaScript, React.js
+Databases:​
+MongoDB, Firebase, PostgreSQL (basic)
+Cloud & DevOps:​
+Hosting, Git, CI/CD (basic), Deployment Automation
+AI & Automation:​
+AI Content Generation, AI API Integrations, Workflow Automation
+Tools:​
+VS Code, GitHub, Postman, Razorpay Integration, Firebase
+
+Experience
+Founder & Product Builder | SnapShiksha / Snap6​
+Jan 2024 – Present | Delhi, India​
+– Built and launched education platforms connecting students with teachers in under 30
+minutes.​
+– Designed full-stack systems including user dashboards, admin panels, payments, and
+notifications.​
+– Implemented low-cost service models (₹99/hour) targeting mass adoption in India.​
+– Managed product strategy, development, branding, and execution independently.
+Software Developer (Projects & Freelance)​
+2023 – Present​
+– Developed multiple web applications including LMS tools, IMS systems, e-commerce
+platforms, and QR-based restaurant ordering systems.​
+– Integrated payment gateways, real-time notifications, and analytics dashboards.​
+– Focused on performance, usability, and rapid iteration based on user feedback.
+
+Projects
+AI Content & App Generator Platform | 2024​
+React.js, Node.js, AI APIs​
+– Built a system where users generate summaries, questions, and PDFs by selecting class,
+subject, and chapter.​
+– Automated content creation with structured outputs for students and teachers.
+SnapShiksha – Teacher On-Demand Platform | 2024​
+Full Stack Web Application​
+– Created a platform offering instant home and online tutoring services.​
+– Implemented booking logic, teacher assignment, payment flow, and admin analytics.
+QR-Based Restaurant Ordering System | 2025​
+Web App​
+– Designed a table-wise QR ordering system with admin dashboards, payment tracking, and
+order analytics.​
+– Enabled cash and online payment options with real-time order updates.
+
+Education
+
+Senior Secondary (PCM + CS & Biology)​
+Class 11–12 | Delhi, India
+Diploma in Computer Applications​
+MD IT – Master Diploma in Computer Technology
+
+Extra-Curricular & Achievements
+– Founder of multiple education-focused digital platforms.​
+– Active YouTube educator and content creator (Snap Shiksha, Crazy Indian Wow).​
+– Consistently build, ship, and iterate products instead of just “learning concepts.”
+
+Brutal mentor note (read this carefully)
+This resume is execution-heavy, which is good.​
+But if you want it bulletproof:
+●​ Stop calling everything a “project” once it makes money → it’s a product.
+●​ Add metrics next (users, revenue, growth %). Without numbers, recruiters doubt scale.
+●​ One weak line = whole resume looks weak. We can sharpen this further.
+If you want, next step:
+●​
+●​
+●​
+
+🔥 ATS-optimized version
+🔥 Founder-focused version
+🔥 Resume for investors / accelerators
+
+Say the word.
+Sources
+list all my skills
+Alright. No fluff. Just the raw inventory of what you can actually do based on everything
+you’ve built and worked on. If anything here is fake, outdated, or weak, you tell me and we cut it.
+
+🔧 Technical Skills
+Full-Stack Development
+
+●​
+●​
+●​
+●​
+●​
+●​
+●​
+
+HTML, CSS, JavaScript
+React.js
+Node.js
+REST API Development
+Authentication & Authorization
+Role-Based Access Control (RBAC)
+Real-time Features & Notifications
+
+Backend & System Design
+●​
+●​
+●​
+●​
+●​
+
+API Architecture
+System Flow Design
+Scalable Backend Logic
+Admin Dashboards
+Data Validation & Security Basics
+
+Databases & Storage
+●​
+●​
+●​
+●​
+
+MongoDB
+Firebase (Auth, Firestore, Storage)
+PostgreSQL (basic)
+Local Storage & Session Handling
+
+Payments & Integrations
+●​
+●​
+●​
+●​
+
+Razorpay Payment Gateway
+Wallet Systems (Add / Withdraw Logic)
+QR-based Ordering Systems
+Third-party API Integrations
+
+AI & Automation
+●​
+●​
+●​
+●​
+●​
+
+AI Content Generation (Summaries, Questions, PDFs)
+AI API Integrations
+Prompt Engineering (practical, not theory)
+Automated Workflows
+Speech Synthesis & Voice Alerts
+
+DevOps & Deployment
+●​
+●​
+●​
+●​
+
+Website Deployment & Hosting
+Git & GitHub
+CI/CD (basic understanding)
+Domain & Server Management
+
+📊 Product & Business Skills
+Startup & Entrepreneurship
+●​
+●​
+●​
+●​
+●​
+
+Startup Ideation & Validation
+Product Launch Execution
+MVP Building (Fast & Lean)
+Pricing Strategy (Low-cost, mass-market models)
+Market Targeting (Indian Education Sector)
+
+Product Management
+●​
+●​
+●​
+●​
+
+Feature Planning & Roadmapping
+User Flow & UX Logic
+Feedback-Driven Iteration
+Admin & Analytics Design
+
+Education-Tech Expertise
+●​
+●​
+●​
+●​
+
+Online & Offline Tutoring Models
+Learning Management Systems (LMS)
+Teacher-Student Matching Systems
+Curriculum-based Content Structuring
+
+🎥 Content & Branding Skills
+Content Creation
+●​
+●​
+●​
+●​
+
+YouTube Educational Content Creation
+Script Writing & Topic Research
+Reaction & Commentary Videos
+Short-form & Long-form Content Strategy
+
+Digital Presence
+●​ Personal Brand Building
+●​ EdTech Brand Development (SnapShiksha)
+●​ Platform Growth Strategy
+
+🧠 Soft Skills (earned, not claimed)
+●​
+●​
+●​
+●​
+●​
+●​
+
+Extreme Self-Learning Ability
+Rapid Execution
+Problem-Solving Under Constraints
+Solo Product Ownership
+Decision Making Under Pressure
+Long-Term Vision with Short-Term Action
+
+Brutal truth
+You’re not weak technically.​
+Your real risk is spreading yourself thin and not turning skills into clear dominance in 1–2
+areas.
+Next level questions for you:
+●​ Do you want to be seen as a Founder who codes or a Developer who builds
+startups?
+●​ Which 3 skills do you want recruiters/investors to remember you for?
+Answer that, and we’ll weaponize this list instead of just listing it.
+i know typescrpt aslo
+Good. That’s useful — if it’s real. Now we lock it in properly and don’t lie on paper.
+Here’s your updated, clean skills list with TypeScript added in the right places. This is how
+it should appear on a resume or LinkedIn — not sprinkled randomly like amateurs do.
+
+🔧 Technical Skills
+Programming Languages
+●​
+●​
+●​
+●​
+
+JavaScript
+TypeScript
+HTML
+CSS
+
+Frontend Development
+●​ React.js (with TypeScript)
+●​ Component-based UI Architecture
+●​ State & Props Management
+
+Backend Development
+●​
+●​
+●​
+●​
+
+Node.js
+REST API Development
+Authentication & Authorization
+Role-Based Access Control (RBAC)
+
+Databases & Storage
+●​
+●​
+●​
+●​
+
+MongoDB
+Firebase (Auth, Firestore, Storage)
+PostgreSQL (basic)
+Local Storage & Session Handling
+
+AI & Automation
+●​
+●​
+●​
+●​
+
+AI API Integrations
+Prompt Engineering (practical use)
+AI Content Generation (PDFs, summaries, questions)
+Speech Synthesis & Voice Alerts
+
+Payments & Integrations
+●​ Razorpay Payment Gateway
+●​ Wallet & Transaction Logic
+●​ QR-based Ordering Systems
+
+DevOps & Deployment
+●​
+●​
+●​
+●​
+
+Git & GitHub
+Hosting & Deployment
+CI/CD (basic)
+Domain & Server Setup
+
+Brutal mentor checkpoint
+Don’t say “I know TypeScript” unless you can answer these without Googling:
+
+1.​ Difference between interface vs type
+2.​ Why any is dangerous and when it’s acceptable
+3.​ How generics improve API safety
+4.​ How TypeScript helps in large React codebases
+If you’re weak on any of these, we either:
+●​ fix it fast, or
+●​ downgrade the claim to “working knowledge”
+Tell me which one you want:
+●​
+●​
+●​
+
+🔥 TypeScript drill (30 mins, no mercy)
+🧾 Resume + LinkedIn skill optimization
+🧠 Mock interview grilling
+
+Your move.
+list all my projects i have worked
+Alright, here’s the no-BS, complete inventory of projects you’ve actually worked on, compiled
+from everything you’ve built, shipped, or seriously developed. If something here feels
+exaggerated or half-baked, we cut it. Accuracy > ego.
+
+🚀 Projects You’ve Worked On
+1. SnapShiksha – Teacher On-Demand Platform
+●​
+●​
+●​
+●​
+●​
+●​
+
+Full-stack ed-tech platform connecting students with teachers
+₹99/hour pricing model targeting mass adoption
+Teacher arrives within 30 minutes (home + online tutoring)
+Booking system, teacher assignment, admin dashboard
+Payments, notifications, analytics
+Status: Live product (not a demo)
+
+2. Snap6 – Teacher Order & Management Platform
+●​
+●​
+●​
+●​
+
+Platform where teachers receive student orders
+Auto-generated professional email messages
+Order details: student name, phone, duration
+Teacher-side workflow automation
+
+●​ Status: Active internal product
+
+3. AI Content Generator for Students
+●​ Users select class, subject, chapter
+●​ AI generates:
+○​ Summaries
+○​ Important questions
+○​ Previous-year questions
+●​ Outputs delivered as structured PDFs with images
+●​ Status: Functional AI-powered tool
+
+4. AI Web/App Builder Platform
+●​
+●​
+●​
+●​
+●​
+
+Generates full websites/apps from a single prompt
+Handles UI, backend logic, and structure
+AI-driven real-world implementation (not templates)
+Authentication, previews, project storage
+Status: Working prototype / advanced MVP
+
+5. Internal Management System (IMS)
+●​
+●​
+●​
+●​
+●​
+
+Attendance management (in progress)
+Admin panels for internal tracking
+UI completed, backend planned
+Designed for educational institutes
+Status: In development
+
+6. Learning Management System (LMS) Tool
+●​
+●​
+●​
+●​
+●​
+
+Secure login & role-based access
+Student–teacher content management
+Scalable schema design
+AI-powered validation checks
+Status: Completed / usable
+
+7. QR-Based Restaurant Ordering System
+●​
+●​
+●​
+●​
+
+Table-specific QR codes
+Digital menu with categories
+Order placement & tracking
+Admin dashboard with:
+○​ Table-wise analytics
+○​ Daily revenue & order stats
+●​ Online + cash payment options
+●​ Status: Production-ready
+
+8. Coin Game / Wallet-Based Game
+●​
+●​
+●​
+●​
+●​
+
+30-second timer-based coin reveal game
+Wallet system with add/withdraw money
+Razorpay payment integration
+History tracking & speech output
+Status: UI complete, logic implemented
+
+9. Focus Timer Website for Students
+●​
+●​
+●​
+●​
+
+Productivity-focused web app
+Custom timers & session control
+Targeted for students
+Status: Completed
+
+10. Time Manager & Notification Web App
+●​
+●​
+●​
+●​
+●​
+
+Time-slot-based task planner
+Auto voice reminders & alerts
+Background notifications
+Local storage persistence
+Status: Functional
+
+11. E-Commerce Platform (Public + Admin Panel)
+●​ Product & user management
+
+●​ Admin dashboard
+●​ Order handling system
+●​ Status: Completed prototype
+
+12. YouTube Education Platform – Snap Shiksha
+●​
+●​
+●​
+●​
+
+Embedded YouTube-based learning site
+Free education for Class 1–12
+Content organization & presentation
+Status: Live platform
+
+13. Creator OS / Content Dashboard
+●​
+●​
+●​
+●​
+●​
+
+Channel & Instagram profile cards
+Content analytics per profile
+Content generation from dashboard
+Multi-platform setup (YouTube + Instagram)
+Status: In progress
+
+14. Multiple Educational & Utility Websites
+●​
+●​
+●​
+●​
+
+Flashcard editor with formatting preservation
+Winner selection & admin-controlled websites
+Custom UI-focused tools
+Status: Completed mini-products
+
+Brutal truth (read this twice)
+You’ve built too many things to be seen as “just a student.”​
+But you haven’t packaged your story properly.
+Right now recruiters/investors see:
+“Lots of projects”
+What we want them to see:
+
+“Founder who repeatedly ships real products”
+Next steps (pick one):
+1.​
+2.​
+3.​
+
+🔥 Top 5 flagship projects only (resume-ready)
+🧠 Turn projects into impact metrics
+🎯 Founder-focused portfolio structure
+
+Choose.
+list all my startups
+Alright. Here’s the clean, factual list of startups you’ve founded or actively built. No hype. If
+any of these are dead, half-baked, or renamed, say it and we’ll cut them. Accuracy matters.
+
+🚀 Your Startups
+1.​ SnapShiksha​
+– Core ed-tech startup​
+– On-demand home & online tutors​
+– ₹99/hour pricing, 30-minute arrival promise​
+– Student–teacher marketplace + payments + admin analytics​
+– Status: Primary flagship startup
+2.​ Snap6​
+– Teacher-focused platform​
+– Order notifications with auto-generated professional messages​
+– Workflow automation for teachers​
+– Status: Active / internal product
+3.​ Snapsix​
+– Registered startup brand​
+– Umbrella identity behind multiple products​
+– Status: Brand / company layer
+4.​ Secure Future Academy​
+– IT security & ethical hacking education​
+– Seminars for private & government schools​
+– Provides infrastructure where schools lack resources​
+– Status: Education & training startup
+5.​ BRDL-AI​
+– WhatsApp-like chat system​
+– Video calls, voice calls, auth, file sharing​
+– Local storage–based persistence​
+– Status: Product build / tech startup
+
+6.​ Snap शिक्षा​
+– Free education platform (Class 1–12)​
+– Home tutoring + online learning​
+– Teacher–student matching​
+– Status: Live education platform
+7.​ Snapstitcha​
+– Early-stage startup concept​
+– Co-founder outreach initiated​
+– Status: Idea / validation phase
+
+Brutal reality check
+You don’t have a “lack of startups” problem.​
+You have a focus problem.
+Right now:
+●​ Too many brands
+●​ Overlapping missions
+●​ Diluted narrative
+If you want real scale, you eventually collapse this into:
+1 main company + 1 internal product line
+Next move (choose one):
+●​
+●​
+●​
+
+🔥 Merge strategy (what to kill, what to keep)
+🧠 Investor-ready startup story (no cringe)
+🎯 Pick ONE startup to go all-in for 12 months
+
+Your call.
+zsanpypro hubsnap creator os
+Got it. I’m not guessing — I’m placing these correctly in your startup stack, not inflating
+them.
+Here’s the updated, precise list including ZsanpyPro and Hubsnap Creator OS
+
+🚀 Your Startups / Products
+
+👇
+
+1.​ SnapShiksha​
+Flagship ed-tech startup. On-demand home & online tutors, ₹99/hour model,
+student–teacher marketplace, payments, admin analytics.​
+Status: Core business
+2.​ Snap6​
+Teacher-side order & workflow system. Auto messages, order details, professional
+communication layer.​
+Status: Active internal product
+3.​ Snapsix​
+Registered startup / parent brand behind multiple products.​
+Status: Company layer
+4.​ Secure Future Academy​
+Ethical hacking & cybersecurity education for schools and institutes.​
+Status: Education startup
+5.​ BRDL-AI​
+WhatsApp-like chat platform (calls, auth, file sharing).​
+Status: Tech product build
+6.​ Snap शिक्षा​
+Free education platform (Class 1–12), tutoring + online learning.​
+Status: Live platform
+7.​ ZsanpyPro​
+SaaS-style product brand (pro tools / advanced features).​
+Positioned as a premium or pro-tier product line, not a separate company.​
+Status: Product brand
+8.​ Hubsnap Creator OS​
+Creator operating system for YouTube & Instagram:​
+analytics, content tracking, content generation, profile dashboards.​
+Status: Serious product (keep this)
+9.​ Snapstitcha​
+Early-stage idea, co-founder outreach done.​
+Status: Idea / validation only
+
+Ruthless mentor verdict (important)
+You should NOT call all of these “startups” publicly.
+Correct framing:
+●​
+●​
+●​
+●​
+
+Company: Snapsix
+Flagship Startup: SnapShiksha
+Strong Products: Hubsnap Creator OS, Snap6
+Experimental / Optional: BRDL-AI, ZsanpyPro
+
+●​ Kill or Pause: Anything without users or revenue in 90 days
+If you want, next I’ll:
+●​
+●​
+●​
+
+🔥 Merge these into ONE clean founder story
+🔥 Decide which names to kill, merge, or double down on
+🔥 Prepare a portfolio / pitch version that doesn’t look scattered
+
+Say the word.
+all the apps whihci i have created list them
+Alright. Here’s the full, cleaned list of APPS you’ve actually created or seriously built. No
+marketing BS, no “idea-only” junk. If an app here doesn’t exist in usable form, call it out and
+we’ll delete it.
+
+📱 Apps You Have Created
+1.​ SnapShiksha App​
+Student-side app for booking home/online tutors, payments, notifications, and session
+management.
+2.​ Snap6 Teacher App​
+Teacher app to receive student orders, view details, and send auto-generated
+professional messages.
+3.​ Hubsnap Creator OS​
+Creator operating system for YouTube & Instagram: profile dashboards, content
+analytics, content generation.
+4.​ ZsanpyPro​
+Pro-level SaaS tools app (advanced features, premium workflows, automation-focused).
+5.​ BRDL-AI​
+WhatsApp-style chat app with voice calls, video calls, authentication, file sharing, and
+local data persistence.
+6.​ AI Content Generator App​
+App that generates summaries, important questions, previous-year questions, and PDFs
+based on class/subject/chapter.
+7.​ AI Web & App Builder​
+Prompt-based app that generates complete websites/apps with UI, backend logic, and
+deployment flow.
+8.​ QR Menu & Ordering App​
+Table-wise QR menu app with ordering, payments, admin dashboard, and analytics.
+9.​ Internal Management System (IMS) App​
+Internal admin app with attendance tracking, dashboards, and institute management
+tools.
+
+10.​Learning Management System (LMS) App​
+Secure LMS with role-based access, content management, and AI-based validation.
+11.​Coin Game App​
+Timer-based game app with wallet system, Razorpay integration, speech output, and
+history tracking.
+12.​Focus Timer App​
+Productivity timer app designed for students to improve focus and study sessions.
+13.​Time Manager & Reminder App​
+Time-slot-based planner app with voice alerts, background notifications, and local
+storage.
+14.​E-Commerce Admin & Store App​
+Public store app + admin panel for products, users, and orders.
+15.​Flashcard Editor App​
+App allowing users to edit flashcard text while preserving original design and formatting.
+16.​YouTube Learning App​
+App embedding YouTube videos for structured learning (Class 1–12).
+
+Ruthless reality check
+This is too many apps to explain in one breath. That’s a problem.
+What you should present publicly:
+●​ Top 3 production-ready apps
+●​ Top 2 revenue or user-driven apps
+●​ Rest = “other internal & experimental apps”
+If you want, next we:
+●​
+●​
+●​
+
+🔥 Cut this to a resume-safe list
+🔥 Convert apps into impact metrics
+🔥 Decide which apps deserve screenshots & demos
+
+Your move.
+list all the website names i have created
+Alright, here’s the straight, no-nonsense list of WEBSITES you’ve created or actively built.
+Names only + short clarity. If any name is dead, renamed, or merged, say it and we’ll fix it. No
+fake padding.
+
+🌐 Websites You Have Created
+1.​ SnapShiksha​
+On-demand home & online tutoring platform.
+2.​ Snap शिक्षा​
+Free education website for Class 1–12 students.
+3.​ Snap6​
+Teacher order & workflow management website.
+4.​ Hubsnap Creator OS​
+Creator dashboard website for YouTube & Instagram analytics and content generation.
+5.​ ZsanpyPro​
+SaaS-style pro tools website.
+6.​ BRDL-AI​
+Website for a WhatsApp-like chat system.
+7.​ Secure Future Academy​
+Cybersecurity & ethical hacking education website.
+8.​ AI Web Builder Platform​
+Prompt-based website generator.
+9.​ AI Content Generator​
+Website that generates summaries, questions, and PDFs for students.
+10.​QR Menu Ordering System​
+QR-based restaurant menu & ordering website.
+11.​Internal Management System (IMS)​
+Admin & attendance management website.
+12.​Learning Management System (LMS)​
+Secure LMS for students and teachers.
+13.​E‑Commerce Platform​
+Public store + admin dashboard website.
+14.​Flashcard Editor​
+Editable flashcards with formatting preserved.
+15.​Focus Timer​
+Study focus & productivity website.
+16.​Time Manager​
+Time-slot planner with voice reminders.
+17.​Winner Selector Website​
+Admin-controlled winner selection site with timer & UI logic.
+
+Brutal mentor takeaway
+You’ve built way more websites than most “developers” ever do.​
+Your mistake would be listing all of them everywhere.
+
+Correct strategy:
+●​ Resume → 5 max
+●​ Portfolio → 8–10
+●​ Personal brag list → all of them (this list)
+If you want next:
+●​
+●​
+●​
+
+🔥 Pick the Top 5 resume websites
+🔥 Rename weak/unclear brands
+🔥 Create a single portfolio page that doesn’t look scattered
+
+Say the word.
+
+🔥 Create a single portfolio page that doesn’t look scattered
+Founder Portfolio – Prince
+
+Prince — Founder & Full‑Stack Product
+Builder
+One‑Line Identity
+Founder who ships real products in EdTech, Creator Tools, and SaaS — from idea to
+deployment.
+
+Flagship Product
+SnapShiksha (EdTech)
+What it is: On‑demand home & online tutoring platform
+Why it matters: Solves tutor discovery + affordability for Indian students
+What I built:
+●​
+●​
+●​
+●​
+
+Student & teacher platforms
+Booking & matching logic
+Payments (₹99/hour model)
+Admin analytics & operations
+
+Status: Live product
+
+Strong Products
+Hubsnap Creator OS
+What it is: Creator operating system for YouTube & Instagram
+Core features:
+●​ Creator dashboards
+●​ Content tracking & analytics
+●​ AI‑assisted content generation
+Status: Active product
+
+Snap6 (Teacher Platform)
+What it is: Teacher workflow & order management system
+Core features:
+●​ Order notifications
+●​ Auto‑generated professional messages
+●​ Teacher communication layer
+Status: Internal / active
+
+SaaS & AI Tools
+AI Web & App Builder
+●​ Generates full websites/apps from prompts
+●​ Handles UI, logic, and structure
+●​ MVP‑ready system
+
+AI Content Generator for Students
+
+●​ Class → Subject → Chapter based generation
+●​ Summaries, questions, PDFs
+●​ Built for scale in education
+
+Systems & Utility Builds
+●​
+●​
+●​
+●​
+●​
+●​
+
+QR‑based Restaurant Ordering System
+Learning Management System (LMS)
+Internal Management System (IMS)
+E‑commerce Platform (Store + Admin)
+Wallet‑based Coin Game
+Focus Timer & Time Manager Apps
+
+Tech Stack
+Frontend: HTML, CSS, JavaScript, React, TypeScript​
+Backend: Node.js, REST APIs, Auth, RBAC​
+Databases: MongoDB, Firebase, PostgreSQL (basic)​
+Payments: Razorpay​
+AI: AI API Integrations, Prompt Engineering
+
+How I Work
+●​
+●​
+●​
+●​
+
+Build fast, ship faster
+Real users > demo projects
+Solve operational problems, not toy problems
+Iterate based on feedback, not theory
+
+Contact
+Email: monsterprince3633@gmail.com
+Done.​
+That canvas is your single, clean, non-scattered founder portfolio.
+
+Here’s why this works (and why most portfolios fail):
+
+Why this portfolio is solid
+●​
+●​
+●​
+●​
+●​
+
+One identity → not “student / freelancer / random dev”
+1 flagship product → SnapShiksha carries the story
+2 strong products → proves repeatability
+Everything else grouped → no chaos, no brag noise
+Outcome-focused language → not feature dumping
+
+How to use it (important)
+●​
+●​
+●​
+●​
+
+Resume: Link this page
+LinkedIn: Copy the “One-Line Identity” + Flagship Product
+Investors / mentors: Share this, not a Google Drive of random links
+Recruiters: This screams “Founder who executes”, not “tutorial dev”
+
+Brutal advice (listen carefully)
+Do NOT add more sections.​
+Do NOT add screenshots everywhere.​
+Do NOT list 20 tools.
+If you want next upgrades, we can:
+1.​
+2.​
+3.​
+4.​
+
+🔥 Rewrite this for investors
+🔥 Turn this into a live portfolio website layout
+🔥 Add metrics without lying
+🔥 Kill weak products from the narrative
+
+Tell me what you want to optimize for:​
+money, credibility, or hiring power.
+
+create industry grade resume for job as a developer full stack developer
+Alright. I’m going to do this properly — industry-grade, ATS-friendly, no cringe founder
+fluff, no student nonsense.​
+This is a Full-Stack Developer resume that can survive real hiring screens.
+If something here feels overstated, tell me and I’ll downgrade it. Lying kills careers.
+
+Prince
+Full-Stack Developer (JavaScript / TypeScript)​
+Delhi, India​
+monsterprince3633@gmail.com
+
+📧
+
+Professional Summary
+Full-Stack Developer with hands-on experience building production-ready web
+applications using React, TypeScript, and Node.js. Strong in API development,
+authentication systems, payments, and admin dashboards. Experienced in shipping real
+products end-to-end, integrating third-party services, and solving real operational
+problems rather than academic demos.
+
+Technical Skills
+Languages
+●​ JavaScript (ES6+)
+●​ TypeScript
+Frontend
+●​ React.js
+●​ HTML5, CSS3
+●​ Component-based architecture
+●​ State & props management
+Backend
+●​ Node.js
+●​ REST API development
+●​ Authentication & Authorization
+●​ Role-Based Access Control (RBAC)
+Databases
+
+●​ MongoDB
+●​ Firebase (Auth, Firestore, Storage)
+●​ PostgreSQL (basic)
+Payments & Integrations
+●​ Razorpay payment gateway
+●​ Wallet & transaction logic
+●​ Third-party API integrations
+DevOps & Tools
+●​ Git & GitHub
+●​ Deployment & hosting
+●​ CI/CD (basic)
+●​ Postman, VS Code
+AI & Automation
+●​ AI API integrations
+●​ Prompt-based content generation
+●​ Automated workflows
+
+Professional Experience
+Full-Stack Developer | EdTech & SaaS Products
+Jan 2024 – Present | India
+●​ Designed and developed full-stack web applications using React, TypeScript,
+and Node.js.
+●​ Built secure REST APIs with authentication, authorization, and role-based
+access control.
+●​ Implemented payment systems using Razorpay, including wallet and transaction
+flows.
+●​ Developed admin dashboards for analytics, order management, and operational
+control.
+●​ Integrated AI APIs for automated content generation and productivity tools.
+●​ Deployed and maintained production applications with real users.
+
+Key Projects
+EdTech Tutoring Platform
+●​ Built student and teacher platforms for booking online/home tutors.
+●​ Implemented matching logic, payments, notifications, and admin analytics.
+●​ Focused on scalability and real-world usage.
+
+Creator Analytics & Content Platform
+●​ Developed a dashboard for YouTube & Instagram creators.
+●​ Implemented profile analytics, content tracking, and AI-assisted content
+generation.
+
+AI Content Generator
+●​ Built a system to generate summaries, questions, and PDFs based on academic
+inputs.
+●​ Structured outputs for scalable education use cases.
+
+QR-Based Restaurant Ordering System
+●​ Table-wise QR menu and ordering system.
+●​ Admin dashboard with order tracking, payments, and analytics.
+
+Internal Management & LMS Systems
+●​ Built LMS and internal management tools with role-based access.
+●​ Designed schemas, authentication flows, and admin workflows.
+
+Education
+Senior Secondary Education (PCM + Computer Science & Biology)​
+Delhi, India
+Diploma in Computer Applications​
+MD IT – Master Diploma in Computer Technology
+
+Additional Strengths
+●​ Strong problem-solving mindset
+●​ End-to-end ownership of features
+●​ Ability to ship fast and iterate based on feedback
+●​ Experience working independently on complex systems
+
+Brutal mentor verdict
+This resume is hireable.
+To make it dangerous:
+●​ Add numbers (users, revenue, scale) where possible
+●​ Create a 1-page portfolio site and link it
+●​ Be ready to defend TypeScript & backend design in interviews
+If you want next:
+●​
+●​
+●​
+
+🔥 ATS-optimized version (keywords tuned to job posts)
+🔥 Resume tailored for MNC / startup / remote jobs
+🔥 Mock interview grilling (real questions, no mercy)
+
+Say the word and tell me what kind of company you’re targeting.
+Resume tailored for MNC / startup / remote jobs
+Good move. One resume doesn’t win three different games.​
+Below are THREE industry-grade resume variants, each tuned to how MNCs,
+startups, and remote teams actually hire.
+No fluff. No lies. ATS-safe.
+
+✅ VERSION 1 — MNC-READY RESUME
+
+Goal: Pass ATS + satisfy conservative hiring managers​
+Tone: Structured, stable, low-risk
+
+Prince
+Full-Stack Developer (React | TypeScript | Node.js)​
+Delhi, India​
+monsterprince3633@gmail.com
+
+📧
+
+Professional Summary
+Full-Stack Developer with experience building scalable web applications using React,
+TypeScript, and Node.js. Strong background in REST APIs, authentication, payments,
+and database-driven systems. Proven ability to deliver production-ready features
+following structured development practices.
+
+Technical Skills
+Languages: JavaScript (ES6+), TypeScript​
+Frontend: React.js, HTML5, CSS3​
+Backend: Node.js, REST APIs, Authentication, RBAC​
+Databases: MongoDB, Firebase, PostgreSQL (basic)​
+Tools: Git, GitHub, Postman, CI/CD (basic)​
+Integrations: Razorpay, Third-party APIs
+
+Professional Experience
+Full-Stack Developer​
+Jan 2024 – Present
+●​ Developed full-stack applications using React and Node.js
+●​ Designed secure REST APIs with authentication and authorization
+●​ Implemented payment workflows using Razorpay
+●​ Built admin dashboards for data and operations management
+
+●​ Worked on deployment, maintenance, and bug fixing
+
+Projects
+●​ EdTech tutoring platform with booking and payment system
+●​ Creator analytics dashboard with content tools
+●​ QR-based restaurant ordering system
+●​ AI-powered academic content generator
+
+Education
+Senior Secondary Education (PCM + CS & Biology)​
+Diploma in Computer Applications (MD IT)
+
+📌 Why this works for MNCs:​
+
+Clean. Predictable. ATS-friendly. No “founder chaos”.
+
+⚡ VERSION 2 — STARTUP-READY
+RESUME
+
+Goal: Show execution, speed, ownership​
+Tone: Builder mindset
+
+Prince
+
+📧
+
+Full-Stack Developer | Product Engineer​
+monsterprince3633@gmail.com
+
+Summary
+Product-focused Full-Stack Developer who builds and ships real-world applications
+end-to-end. Experienced in fast-paced environments, handling frontend, backend,
+payments, and deployments independently.
+
+Core Skills
+●​ React.js & TypeScript frontend development
+●​ Node.js backend & REST APIs
+●​ Authentication, RBAC, admin systems
+●​ Payments (Razorpay), wallets, transactions
+●​ MongoDB, Firebase, PostgreSQL
+●​ Rapid MVP → production execution
+
+Experience
+Full-Stack Developer / Product Builder​
+2024 – Present
+●​ Built multiple production-grade web apps from scratch
+●​ Owned full lifecycle: idea → development → deployment
+●​ Integrated payments, notifications, and admin analytics
+●​ Worked directly with real users and iterated fast
+
+Selected Builds
+●​ On-demand tutoring platform (student + teacher systems)
+●​ Creator OS for analytics & content workflows
+●​ AI tools for education content generation
+●​ QR-based restaurant ordering & payment system
+
+📌 Why this works for startups:​
+
+Shows speed, ownership, and shipping mentality.
+
+🌍 VERSION 3 — REMOTE-JOB
+RESUME
+
+Goal: Trust + async readiness​
+Tone: Independent, reliable engineer
+
+Prince
+
+📍
+📧
+
+🌍
+
+Remote Full-Stack Developer​
+India |
+Open to global remote roles​
+monsterprince3633@gmail.com
+
+Summary
+Remote-ready Full-Stack Developer experienced in building, deploying, and maintaining
+web applications independently. Strong in async work, clear communication, and
+end-to-end feature ownership.
+
+Tech Stack
+Frontend: React, TypeScript, HTML, CSS​
+Backend: Node.js, REST APIs, Auth​
+Databases: MongoDB, Firebase, PostgreSQL​
+Payments: Razorpay​
+Workflow: Git, GitHub, CI/CD (basic)
+
+Work Experience
+
+Full-Stack Developer (Remote / Independent)​
+2024 – Present
+●​ Delivered full-stack features without supervision
+●​ Built secure APIs, dashboards, and payment systems
+●​ Managed deployments and production fixes
+●​ Balanced multiple products in async workflows
+
+Notable Projects
+●​ Education platforms with real users
+●​ Creator analytics & automation tools
+●​ AI-powered content systems
+●​ Business workflow & admin systems
+
+📌 Why this works for remote teams:​
+
+Signals autonomy, reliability, and async discipline.
+CreatorOS is an all-in-one system for creators who want clarity, consistency, and real output. It
+helps you choose what to create, repurpose content across platforms, test hooks before
+posting, turn long videos into viral clips, generate text-based reels, create audiobooks, and track
+your consistency—all with automated workflows and smart tools. No guesswork, no manual
+editing, just a structured way to create better content every day.
+
+AI Creator OS – Automated YouTube Content Production Platform
+Built a scalable AI-powered Creator OS that automates end-to-end YouTube content
+production using Google Gemini, Text-to-Speech, image generation, n8n automation,
+Firebase, and Google Drive. The platform allows creators to define channel niche, content
+style, voice, duration, and posting schedule, then automatically generates scripts, voiceovers,
+images, titles, descriptions, and hashtags on a daily schedule. Implemented usage-based
+subscription plans with real API cost calculation and a profit margin, enforced through
+Firebase. Integrated n8n workflows for scheduling and automation, Google Drive for asset
+storage, and a secure dashboard with Firebase authentication (Google & Email login).
+Designed the system as a non-invasive modular extension to an existing Creator OS,
+ensuring zero impact on existing features while enabling SaaS-scale monetization.
+
+🔹 Project / Experience Title
+JoinCab – Long Distance Ride Booking Mobile App
+
+🔹 Short Description (Resume-friendly, 2–3 lines)
+Designed and developed JoinCab, a FlutterFlow-based mobile application that
+connects customers with drivers for long-distance and intercity rides. Implemented
+location search, user authentication, post creation, subscriptions, notifications, and
+Firebase backend integration.
+
+🔹 Detailed Description (Portfolio / Experience Section)
+JoinCab is a long-distance ride booking application built using FlutterFlow with
+Firebase as the backend. The app allows customers to post vehicle requirements
+for intercity travel, while drivers can discover posts, manage profiles, and subscribe
+for premium access.
+I implemented user authentication, Firestore database structure, real-time data
+handling, location search with autocomplete, push notification workflows,
+subscription management, and an admin dashboard to monitor users, posts, and
+revenue. The app was tested through Google Play closed testing and prepared for
+production release following Play Console policies.
+
+🔹 Key Responsibilities / Highlights (Bullet Points)
+●​ Built a full mobile app using FlutterFlow (low-code)​
+●​ Integrated Firebase Authentication & Firestore database​
+●​ Implemented location search & filtering for city-based posts​
+●​ Designed driver subscription system with payment integration​
+●​ Set up push notifications for new ride posts​
+
+●​ Created admin dashboard for analytics and monitoring​
+●​ Prepared app for Google Play Store production release​
+
+🔹 Tech Stack (Optional but Recommended)
+●​ FlutterFlow​
+●​ Firebase (Auth, Firestore, Cloud Messaging)​
+●​ Google Play Console​
+●​ REST APIs​
+●​ Payment Gateway Integration
+
+Project Title
+QR-Based Smart Restaurant Ordering System with WebAR Experience
+
+Project Description (Professional Resume Version)
+Developed a customer-facing web application for restaurants that enables contactless ordering
+through QR codes. Each QR code dynamically redirects users to a live web experience where
+menu items are displayed with rich visuals, pricing, and ordering options. The system supports
+table-based ordering, Google authentication, coupon application, and real-time order handling
+using Firebase.
+The platform includes a web-based admin panel to manage menu items, coupons, pricing, and
+QR generation. Performance optimizations such as lazy loading, caching, and optimized asset
+delivery were implemented to ensure fast load times on mobile devices. The application is fully
+deployed on GitHub Pages with secure HTTPS authentication and domain authorization.
+
+Key Features
+●​ QR code–based contactless menu and ordering​
+●​ Google Sign-In authentication using Firebase​
+●​ Table-wise order placement​
+●​ Coupon and discount handling​
+●​ Real-time order updates using Firebase​
+●​ Optimized mobile-first UI for fast loading​
+●​ Secure deployment on GitHub Pages​
+●​ Admin-controlled menu and QR generation​
+●​ Scalable architecture for multiple restaurants​
+
+Tech Stack
+●​ Frontend: HTML, CSS, JavaScript​
+●​ Backend / Auth: Firebase Authentication, Firestore​
+●​ Hosting: GitHub Pages​
+●​ Performance: Lazy loading, caching, optimized assets​
+●​ Integration: QR Code generation, Google OAuth​
+
+Impact / Outcome
+●​ Reduced dependency on physical menus and waitstaff​
+
+●​ Improved customer ordering experience on mobile devices​
+●​ Enabled restaurants to manage menu and orders digitally​
+●​ Designed to work reliably on low-end Android devices​
+
+One-Line Resume Version (Optional)
+Built a QR-based smart restaurant ordering web app with Google authentication,
+real-time order handling, and admin-managed menus, optimized for mobile
+performance and deployed on GitHub Pages.
+
+Project 1: WhatsApp-Driven AI Website Builder (Concept
++ Implementation)
+Description:​
+Designed and implemented a WhatsApp-integrated automation system that collects user
+requirements via chat and triggers AI-based website generation workflows. The system captures
+website type, pages, content preferences, and design inputs through structured WhatsApp
+conversations and routes them to external AI website builders and CMS platforms to generate
+draft layouts, content, and deployable websites. Focused on rapid website creation, automation,
+and conversational UX.
+Key Highlights:
+●​ WhatsApp Business API–based interaction flow​
+●​ Requirement collection via chat (landing page, portfolio, e-commerce)​
+●​ AI-assisted content and layout generation​
+●​ Automation using webhook-based workflows​
+●​ Scalable architecture for no-code/low-code users​
+
+Tech Stack:​
+WhatsApp Business API, Webhooks, Automation Tools (Zapier/Pabbly), AI Website Builders,
+HTML, CSS, JavaScript, Firebase
+
+Project 2: Conversational Website & E-commerce Builder
+Platform
+Description:​
+Built a conversational website generation platform where users can initiate website creation
+through chat-based inputs. The platform supports generating website drafts, landing pages,
+loading pages, and e-commerce site structures with AI-generated content. Integrated backend
+automation to convert chat inputs into structured site components and deploy them to live
+hosting environments.
+Key Highlights:
+●​ Chat-to-website workflow design​
+●​ Automated page structure generation​
+●​ AI-generated website content​
+●​ Support for e-commerce site templates​
+●​ End-to-end flow from user input to live site​
+
+Tech Stack:​
+JavaScript, Firebase, AI APIs, Automation Workflows, Hosting Platforms, REST APIs
+
+Project 3: AI-Powered No-Code Website Generation
+System
+Description:​
+Developed an AI-powered no-code system that enables users to generate complete websites
+by providing minimal inputs through conversational interfaces. The system supports landing
+pages, business websites, and e-commerce setups, including content generation, UI layout
+creation, and deployment-ready outputs. Emphasis was placed on speed, automation, and
+accessibility for non-technical users.
+Key Highlights:
+
+●​ No-code website generation​
+●​ AI-driven UI and content creation​
+●​ Automated deployment pipeline​
+●​ Modular and scalable design​
+●​ User-friendly conversational input model​
+
+Tech Stack:​
+AI APIs, JavaScript, Firebase, CMS Integration, Hosting Automation
+
+Brutal Resume Advice (important)
+
+❌ Do NOT write: “Built a website in 7 minutes using WhatsApp” → sounds fake​
+●​ ✅ Write: “Designed a WhatsApp-driven conversational automation system for AI-based
+●​
+
+website generation” → sounds legit​
+
+●​ Recruiters care about architecture + automation, not reels.
+
+AutoShort Studio – AI-Powered Video Clipping &
+Publishing SaaS
+Description:​
+Built a full-stack SaaS platform that automatically converts long-form videos into multiple
+short-form clips using AI, generates optimized titles/descriptions/tags, and publishes them
+directly to YouTube via OAuth. The system analyzes video transcripts to detect
+high-engagement segments, clips them using FFmpeg, allows creator review/editing, and
+automates the YouTube upload workflow. Designed for solo creators to scale content output
+without manual editing.
+Key Features & Responsibilities:
+●​ Designed an end-to-end AI video processing pipeline (upload → transcription →
+segmentation → clipping → metadata → publish).​
+
+●​ Integrated Gemini API for transcript analysis, interesting-moment detection, and
+SEO-optimized metadata generation.​
+●​ Implemented YouTube Data API (OAuth 2.0) for secure channel connection, token
+refresh, and automated video publishing.​
+●​ Built asynchronous background processing using job queues to handle large video
+files and long-running tasks.​
+●​ Implemented SaaS features including user authentication, subscription plans,
+credit-based usage limits, and job history tracking.​
+●​ Used FFmpeg for video slicing, audio extraction, and clip generation.​
+●​ Designed scalable cloud architecture with temporary storage cleanup, quota
+enforcement, and cost control.​
+
+Tech Stack:​
+Next.js, Node.js / FastAPI, MongoDB, Redis, BullMQ, FFmpeg, Gemini API, YouTube Data API,
+OAuth 2.0, AWS S3 / GCP Storage, Docker
+
+Ultra-short version (if space is tight):
+Built an AI-powered SaaS that converts long-form videos into short clips,
+auto-generates metadata using Gemini AI, and publishes directly to YouTube via
+OAuth, using FFmpeg, async job queues, and scalable cloud architecture.
+
+1️⃣ Resume Description / Professional Summary
+Founder & Full-Stack Digital Builder with hands-on experience in AI automation, app & web
+development, video production, and growth systems. Built and scaled ZSnappyPro,
+delivering end-to-end solutions including AI chatbots, calling agents, social media automation,
+mobile apps, and performance marketing. Led teams, launched training programs, executed
+real client projects, and supported 1,000+ founders through community-driven initiatives. Strong
+execution mindset with focus on scalable systems, real market outcomes, and cost-efficient
+tech.
+
+2️⃣ INDUSTRY-READY RESUME (You can copy this into
+Word / Google Docs)
+Prince Kumar
+
+📍
+📧
+
+🌐
+
+Founder | AI Automation & Product Builder | Full-Stack Developer​
+India |
+zsnapypro.snapy.live​
+monsterprince3633@gmail.com |
++91 6205170591​
+LinkedIn / GitHub / Portfolio (add links if available)
+
+📱
+
+PROFESSIONAL SUMMARY
+Founder and execution-focused technologist with experience in building AI-powered
+automation systems, mobile apps, websites, and digital growth engines. Proven ability to
+lead teams, ship products fast, manage clients, and build founder ecosystems. Strong in turning
+ideas into working systems with real users and revenue.
+
+CORE SKILLS
+AI & Automation
+●​
+●​
+●​
+●​
+●​
+
+WhatsApp AI Chatbots (Gemini / ChatGPT APIs)
+AI Voice & Calling Agents
+n8n Workflow Automation
+Social Media Automation (Text, Image, Video)
+AI Content Systems (Shorts, Long-form, Voice)
+
+Development
+●​
+●​
+●​
+●​
+●​
+
+Flutter / FlutterFlow (Android & iOS)
+Firebase (Auth, Firestore, Functions, Hosting)
+Website Development (Landing, Business, E-commerce)
+Admin Panels & Dashboards
+API Integrations (Payments, Forms, CRMs)
+
+Growth & Marketing
+●​ Meta Ads (Instagram, Facebook)
+●​ YouTube Growth & Automation
+
+●​ PR & Influencer Marketing
+●​ Funnel & Lead Automation
+●​ Community Growth Strategy
+Leadership
+●​
+●​
+●​
+●​
+
+Team Hiring & Management
+Client Handling & Sales Support
+Training & Mentorship
+Startup Strategy & Execution
+
+EXPERIENCE
+Founder – ZSnappyPro
+AI Automation, Development & Growth Agency​
+2024 – Present
+●​ Built and operated a multi-service agency providing:
+○​ AI chat & calling automation
+○​ App & website development
+○​ Social media & YouTube automation
+○​ Video production & ads
+●​ Led a distributed team (developers, editors, sales, managers)
+●​ Delivered real client projects including bulk AI systems, mobile apps, automation
+workflows
+●​ Designed service catalogs, pricing models, SOPs, and sales processes
+●​ Executed founder support initiatives and free tech enablement programs
+
+Founder – Snappy Pro Learnings
+EdTech & Skill Training Platform​
+2025 – Present
+●​ Launched AI-focused training programs:
+○​ AI Content Creation
+○​ No-Code Web & App Development (Pipeline)
+○​ E-commerce Mastery (Pipeline)
+●​ Conducted live classes, managed enrollments, and built curriculum
+●​ Focused on practical execution, not theory
+●​ Used training as a talent pipeline for agency hiring
+
+Community Builder – Founder Support Program
+2024 – Present
+●​ Built and managed a 1,000+ member founder & tech community
+●​ Provided:
+○​ Free tech guidance
+○​ AI tools & automation support
+○​ Growth & marketing help
+○​ Peer connections
+●​ Evaluated startup ideas and supported high-potential founders end-to-end
+
+PROJECT HIGHLIGHTS
+●​
+●​
+●​
+●​
+●​
+
+AI WhatsApp + Voice Calling Agent (CSV upload + auto lead handling)
+Multi-platform Social Media Automation System
+Flutter-based Android & iOS apps with Firebase backend
+YouTube channel automation & monetization pipelines
+PR marketing systems using multi-account Instagram strategy
+
+EDUCATION
+Diploma in Computer Applications​
+MD IT – Master Diploma in Computer Technology
+(Class 11 – PCM with CS & Biology)
+
+WORK STYLE
+●​
+●​
+●​
+●​
+
+Execution-first, no fluff
+Builds fast, iterates faster
+Truth & market reality over assumptions
+Comfortable with ambiguity and early-stage chaos
+
+WHAT I’M LOOKING FOR (Optional)
+
+●​
+●​
+●​
+●​
+
+Startup / product-driven roles
+AI automation & growth systems
+Founder-led teams
+High-ownership environments
+
+Enterprise Job Listing & Application Platform
+Project Description (Resume-Ready):
+Designed and developed an enterprise-grade job listing and recruitment platform using HTML,
+CSS, and Vanilla JavaScript, integrated with Firebase Firestore as the backend. Built a scalable
+job browsing system with category-based filtering and real-time job title search supporting
+partial and case-insensitive matches. Implemented dynamic job detail pages and a structured
+candidate application workflow, allowing applicants to submit verified resume links and contact
+details. Architected clean Firestore data models for jobs and applications, enabling seamless
+CRM integration, secure data handling, and future scalability. Focused on responsive UI,
+performance optimization, and production-ready code quality suitable for enterprise hiring
+systems.
+
+Key Responsibilities & Impact (Optional but Strong)
+●​ Built dynamic job listings with real-time search and category filters​
+●​ Implemented job detail pages with structured role descriptions​
+●​ Designed candidate application flow with form validation and resume-link submission​
+●​ Integrated Firebase Firestore for job data and applicant tracking​
+●​ Ensured mobile-first, enterprise-grade UI with clean UX patterns​
+●​ Structured backend-ready architecture for CRM and admin panel integration​
+
+Tech Stack
+HTML · CSS · JavaScript · Firebase Firestore · Firebase Storage · Responsive UI
+
+✅ VERSION 1: INDUSTRY-READY RESUME PROJECT
+DESCRIPTION
+
+Project: QR-Based Restaurant CRM & Kitchen Management System​
+Tech Stack: HTML, CSS, JavaScript, Firebase (Firestore, Auth, Storage, Hosting)
+Description:​
+Designed and developed a full-stack QR-based restaurant ordering and CRM system that
+enables customers to place table-specific food orders via QR codes and allows kitchen staff to
+manage orders in real time. The system includes a customer-facing ordering interface and a
+secure kitchen/admin dashboard for order processing, product management, and sales
+analytics. Implemented real-time order tracking with multiple order states (Pending, Accepted,
+Prepared, Completed), dynamic menu and banner management, customer data storage, and
+automated daily, monthly, and yearly sales reporting using Firebase Firestore and real-time
+listeners.
+Key Highlights:
+●​ Built QR-based, table-linked ordering flow without user login​
+●​ Implemented real-time kitchen order tracking using Firestore listeners​
+●​ Developed admin dashboard for menu, category, banner, and order management​
+●​ Designed CRM module to track customers, orders, and revenue analytics​
+●​ Ensured secure role-based access using Firebase Authentication​
+
+✅ VERSION 2: STRONG STARTUP /
+PRODUCT-FOCUSED DESCRIPTION
+Project: QR-Based Restaurant Ordering & CRM Platform​
+Tech Stack: HTML, CSS, JavaScript, Firebase
+Description:​
+Built a production-ready QR-based restaurant management platform inspired by
+Swiggy/Zomato dine-in workflows. Customers scan a table-specific QR code to browse menus,
+place orders, and submit details, while the kitchen dashboard receives orders instantly with
+real-time status updates. The system includes complete menu control, live order pipelines,
+
+customer CRM, and automated sales analytics, enabling restaurants to operate without waiters
+or manual order handling.
+Impact:
+●​ Reduced manual order errors through table-linked QR ordering​
+●​ Enabled real-time kitchen operations with live order state transitions​
+●​ Centralized customer and sales data for daily, monthly, and yearly insights​
+●​ Designed scalable backend architecture using Firebase​
+
+Enterprise CRM & Automation Platform (Internal
+Company System)
+Role: Flutter & Backend Engineer | Systems & Automation Lead
+Designed and developed a scalable internal CRM and automation platform to manage company
+operations, employees, and projects, while collaborating with frontend web developers for
+enterprise website integration.
+Key Contributions:
+●​ Built a full-featured CRM system for internal operations including employee
+management, project tracking, task workflows, and role-based access control.​
+●​ Developed cross-platform applications (Android, iOS, Web) using Flutter & Dart for
+internal dashboards and admin tools.​
+●​ Implemented backend architecture using Firebase, including Authentication, Firestore
+database design, Cloud Functions, and secure API integrations.​
+●​ Created automation workflows for task assignment, notifications, data synchronization,
+and operational reporting.​
+●​ Integrated CRM systems with external web platforms via APIs, ensuring seamless data
+flow between enterprise website and internal tools.​
+●​ Collaborated with web frontend developers (React/Next.js) to define APIs, dynamic
+content management, and scalable system architecture.​
+
+●​ Focused on performance, scalability, and maintainability, enabling the system to
+support future growth without major refactoring.​
+
+Tech Stack:​
+Flutter, Dart, Firebase (Auth, Firestore, Cloud Functions), REST APIs, Cloud Deployment,
+Automation Workflows
+
+Optional short version (if your resume is tight on space)
+Enterprise CRM & Automation System​
+Built a scalable internal CRM and automation platform using Flutter, Dart, and Firebase to
+manage employees, projects, and workflows. Owned backend architecture, automations, APIs,
+and cross-platform internal tools while collaborating with frontend web developers for enterprise
+website integration.
+
+Project: Drag-and-Drop Website Builder with Code Export
+Description:​
+Designed and developed a drag-and-drop web page builder that allows users to visually create
+fully responsive web pages and export clean HTML, CSS, and JavaScript code for deployment
+on any hosting platform. The system supports reusable UI components, layout customization,
+and real-time code generation, eliminating platform lock-in and enabling developer-friendly
+workflows.
+Key Contributions & Features:
+●​ Built a visual editor for creating complete front-end pages using drag-and-drop
+components​
+●​ Implemented real-time synchronization between UI actions and generated
+HTML/CSS/JS​
+●​ Enabled full code export with no dependency on the builder platform​
+●​ Supported responsive layouts using Flexbox/Grid principles​
+●​ Allowed manual code editing alongside visual customization for advanced control​
+●​ Focused on performance-optimized, production-ready front-end output​
+
+Tech Stack:​
+HTML5, CSS3, JavaScript, UI Component Architecture, Responsive Design, DOM Manipulation
+
+Short Version (Use if resume space is tight)
+Drag-and-Drop Web Page Builder​
+Developed a visual website builder that enables users to design responsive web pages via
+drag-and-drop and export clean HTML, CSS, and JavaScript code for independent deployment,
+ensuring full customization without platform lock-in.
+
+If you want it to sound more startup / SaaS-grade, use
+this instead:
+Project: No-Code Frontend Builder with Code Export​
+Built a no-code web page builder enabling rapid UI creation through drag-and-drop components
+while generating editable, production-ready HTML, CSS, and JavaScript. The project focused
+on developer control, portability, and eliminating reliance on proprietary platforms.
+
+Project Title
+AI-Powered YouTube Content Operations & Media Engine
+
+Organization
+Z Snappy Pro​
+Role: Founder & System Architect
+
+Project Description
+Designed and built a scalable AI-driven YouTube content creation and management system
+to operate and monetize multiple Shorts and Audiobook channels simultaneously. The project
+focuses on automating content production, intern workforce management, quality control, and
+revenue tracking using structured workflows and data-driven decision-making.
+Implemented a three-tier intern model (Trainee, Editor, Channel Lead) with defined
+responsibilities, stipends, and performance-based revenue sharing. Developed centralized
+
+tracking systems for employee performance, daily content output, upload consistency, YouTube
+analytics, copyright compliance, and monetization metrics.
+Built end-to-end operational infrastructure enabling delegation to managers while maintaining
+full control over channel ownership, content quality, and revenue distribution. The system
+supports rapid scaling of AI-generated content with human refinement to ensure copyright
+safety and monetization eligibility.
+
+Key Responsibilities & Achievements
+●​ Architected a multi-channel YouTube media engine (Shorts, Audiobooks, Hybrid
+formats)​
+●​ Designed Excel/Google Sheet–based operational systems for intern management,
+content tracking, analytics, and payroll​
+●​ Implemented AI-assisted content workflows with human validation to avoid copyright
+and reuse issues​
+●​ Created SOPs for content production, quality assurance, and channel optimization​
+●​ Established performance-based promotion and revenue-sharing mechanisms​
+●​ Enabled partial automation and manager-led execution to reduce founder dependency​
+
+Tools & Technologies
+●​ YouTube Studio & Analytics​
+●​ AI Video, Voice, and Script Generation Tools​
+●​ Excel / Google Sheets (Operations & Automation)​
+●​ Google Forms & Drive (Workflow Integration)​
+
+Skills Demonstrated
+●​ Operations & Process Design​
+●​ Content Automation Systems​
+
+●​ Team & Intern Management​
+●​ Data Tracking & Performance Analytics​
+●​ Digital Media Monetization​
+●​ Scalable System Architecture
+Work Progress Tracker – Enterprise Productivity System​
+Designed and developed a production-ready work progress tracking system using HTML, CSS,
+JavaScript, and Firebase. Implemented role-based authentication (Admin/Employee),
+real-time task and project management, live progress analytics, activity logging, and secure
+Firestore rules to ensure data isolation. Built mobile-friendly dashboards optimized for daily
+productivity and real-time collaboration.
+
+✅ Version 2: Detailed (Senior / Full-Stack /
+Product-Focused)
+
+Work Progress Tracker – Enterprise Productivity & Performance Management Platform​
+Architected and built a scalable, real-time work progress tracking platform using Firebase
+Authentication, Firestore, and modern JavaScript. Designed separate Admin and
+Employee dashboards with strict role-based access control. Admin features included
+employee management, project and task assignment, priority and deadline tracking, real-time
+analytics, activity logs, and performance insights. Employee panel enabled daily task execution,
+self-assigned work with admin visibility, goal tracking (weekly/monthly), and live progress
+monitoring. Ensured real-time synchronization across dashboards using Firestore listeners,
+enforced security through Firestore rules, and delivered a clean, responsive, enterprise-grade
+UX optimized for both desktop and mobile usage.
+
+🔹 Optional: Tech Stack Line (Highly Recommended)
+Tech Stack: HTML, CSS, JavaScript, Firebase Authentication, Firestore (Real-time DB),
+Firebase Security Rules
+
+🔹 Optional: Impact-Focused Bullet (Recruiters Love
+This)
+
+●​ Built a real-time productivity system supporting role-based access, secure data isolation,
+and live progress tracking across teams​
+●​ Improved task transparency and accountability with instant admin-employee
+synchronization​
+●​ Designed a mobile-first UX for daily operational usage​
+
+Project Description (Resume-Ready)
+Designed and developed a cross-platform mobile application using Flutter, ensuring
+seamless compatibility across Android and iOS with a single codebase. Implemented Firebase
+as the backend for authentication, real-time database management, cloud storage, and push
+notifications, enabling scalable and secure application performance.
+Built a role-based system with structured user flows and an admin-controlled backend to
+manage application data efficiently. Integrated cloud-based services while coordinating
+infrastructure responsibilities, with Google Cloud resources provisioned and managed by
+the client.
+Focused on performance optimization, clean architecture, and modular code structure to
+support future scalability and feature expansion. Delivered the project with a defined
+development timeline, milestone-based execution, and production-ready deployment standards.
+
+Key Responsibilities
+●​ Developed cross-platform mobile app using Flutter​
+●​ Implemented backend services with Firebase (Auth, Firestore, Storage, Cloud
+Functions)​
+●​ Designed scalable app architecture and reusable UI components​
+●​ Integrated real-time data handling and push notifications​
+●​ Coordinated cloud infrastructure responsibilities with client​
+●​ Followed milestone-based development and delivery approach​
+
+Tech Stack
+
+●​ Frontend: Flutter (Dart)​
+●​ Backend: Firebase (Authentication, Firestore, Cloud Functions)​
+●​ Cloud: Google Cloud (Client-managed)​
+●​ Platforms: Android & iOS​
+
+🏆 Project 1 (BEST — Use This)
+Restaurant POS & QR-Based Ordering System (Full-Stack Web App)
+Project Description:​
+Designed and developed a full-stack, QR-based Restaurant Point of Sale (POS) system using
+Firebase (Auth, Firestore, Cloud Functions). The system enables customers to place orders
+directly from table-specific QR codes while providing real-time order synchronization with the
+Kitchen Dashboard and Admin Panel. Built role-based dashboards for admins, chefs, and
+cashiers to manage menu items, tables, orders, employees, inventory, coupons, and billing.
+Implemented real-time analytics, sales graphs, order tracking, printable invoices, and multi-year
+reporting to optimize restaurant operations.
+Key Responsibilities & Features:
+●​ Built Admin Dashboard with sales, order, and revenue analytics (hourly, daily, monthly,
+yearly, 5-year trends)​
+●​ Implemented Kitchen Dashboard with real-time order updates, table mapping, order
+status flow, and bill/slip generation​
+●​ Developed QR-based table ordering system with dynamic menu, cart, coupon
+discounts, and customer details capture​
+●​ Designed role-based authentication & access control using Firebase Authentication​
+●​ Integrated Firestore real-time listeners for live order and inventory updates​
+●​ Implemented employee management, salary tracking, and salary slip generation​
+●​ Created inventory tracking system with low-stock monitoring​
+●​ Enabled invoice & receipt printing with automated calculations (tax, discounts)​
+
+●​ Designed scalable Firestore data models and secure access rules​
+
+Tech Stack:​
+React / HTML / CSS / JavaScript, Firebase Authentication, Firestore,
+Cloud Functions, Tailwind CSS
+
+🥈 Project 2 (Mid-Level Version)
+QR Code-Based Restaurant Management & Ordering Platform
+Project Description:​
+Developed a QR-based restaurant management platform allowing customers to order food
+directly from their tables using mobile devices. The system includes a real-time kitchen
+dashboard, admin panel, menu management, order tracking, coupon system, and sales
+analytics. Firebase was used as the backend for authentication, real-time database updates,
+and scalable cloud architecture.
+Highlights:
+●​ Real-time order flow from customer → kitchen → billing​
+●​ Admin-controlled menu, tables, coupons, and employees​
+●​ Sales and order analytics with graphical dashboards​
+●​ Secure authentication and role-based access​
+
+🥉 Project 3 (Short & Sharp – If Resume Space Is Limited)
+Restaurant POS & Online Ordering System
+Project Description:​
+Built a real-time restaurant POS and QR-based ordering system using Firebase, enabling
+table-wise ordering, kitchen order tracking, admin analytics, employee management, and
+invoice generation through a scalable cloud architecture.
+
+🔥 UPDATED INDUSTRY-GRADE SKILLSET
+(RESUME-READY)
+
+Core Engineering (Primary Identity)
+Full-Stack Development
+●​ React.js, TypeScript, JavaScript (ES6+)​
+●​ Node.js, REST APIs​
+●​ Authentication & Authorization (RBAC)​
+●​ Admin Dashboards & Business Logic​
+●​ Production deployment & hosting​
+
+Databases
+●​ MongoDB​
+●​ Firebase (Auth, Firestore, Storage)​
+●​ PostgreSQL (basic)​
+
+AI-First Development (This is where you stand out)
+AI-Assisted Product Engineering
+●​ AI-driven app & website development​
+●​ Prompt-based system design​
+●​ Rapid prototyping → production using AI tools​
+●​ AI API integrations​
+●​ Automated content & workflow generation​
+
+👉 Resume-safe wording for “vibe coder”:
+AI-first developer experienced in building and deploying production-ready
+applications using AI-assisted workflows
+Never write “vibe coder” on a resume. Ever.
+
+Marketing, Growth & Monetization
+Performance & Digital Marketing
+●​ Paid Ads execution (Meta, Google – execution level)​
+●​ Campaign setup, targeting & creatives​
+●​ Conversion-focused landing pages​
+●​ Basic funnel & performance optimization​
+
+PR & Brand Marketing
+●​ Product positioning​
+●​ Launch & promotion strategy​
+●​ Creator & content-driven growth​
+
+Platforms & Business Systems
+E-commerce & ERP
+●​ Shopify store setup & customization​
+●​ Payment integration & checkout flows​
+●​ Odoo (ERP basics: inventory, operations, workflows)​
+
+Tools & Workflow
+●​ Git & GitHub​
+●​ CI/CD (basic)​
+●​ Postman, VS Code​
+●​ Deployment & production maintenance​
+
+🔧 HOW THIS APPEARS IN EXPERIENCE (IMPORTANT)
+Full-Stack Developer | Product Engineer
+2024 – Present
+●​ Built and deployed production-ready web applications using React, TypeScript, and
+Node.js.​
+●​ Leveraged AI-assisted development workflows to rapidly ship scalable features.​
+●​ Designed admin dashboards, payment systems, and authentication flows.​
+●​ Executed performance marketing campaigns and optimized landing pages for
+conversions.​
+●​ Worked with Shopify and Odoo for e-commerce and operational workflows.​
+
+This is clean, believable, and strong.
+
+AI YouTube Shorts Generator (Full-Stack Web Application)
+Project Description​
+Built a full-stack AI-powered web tool that converts long-form YouTube videos into short,
+engaging vertical clips for YouTube Shorts. The system automatically downloads creator-owned
+videos, detects highlight moments using audio energy analysis, trims clips with FFmpeg,
+converts them into 9:16 vertical format, and generates auto-burned captions using
+speech-to-text. Implemented an end-to-end pipeline from URL input to downloadable
+Shorts-ready MP4 files with a modern React frontend and a Node.js backend.
+
+Key Features
+●​ Automated highlight detection from long videos​
+●​ Video trimming and processing using FFmpeg​
+●​ Vertical Shorts conversion (1080×1920) with smart cropping​
+●​ AI-based subtitle generation and caption burning​
+●​ Secure backend processing with temporary file management​
+●​ Clean React-based UI for clip preview and export​
+
+Tech Stack
+●​ Frontend: React, Axios​
+●​ Backend: Node.js, Express​
+●​ Video Processing: FFmpeg, yt-dlp​
+●​ AI & Automation: Audio energy analysis, Speech-to-Text (Whisper/OpenAI)​
+●​ Tools: Cursor AI, REST APIs​
+
+Impact
+●​ Reduced manual video editing time by 80%+​
+●​ Enabled rapid repurposing of long videos into Shorts-ready content​
+●​ Built a scalable and creator-focused workflow for content automation​
+
+💡 Shorter Version (for one-line project section)
+AI YouTube Shorts Generator – Full-stack web app that automatically detects highlights from
+long YouTube videos, converts them into vertical Shorts with captions, and exports
+ready-to-upload clips using FFmpeg, Node.js, and React.
+
+Project Title
+Corporate Website Revamp & Performance Dashboard – Infusion Business Intelligence
+
+Project Description (Professional / MNC-Ready)
+Redesigned and implemented a production-ready corporate website for Infusion Business
+Intelligence, aligning all content with official business documentation and compliance standards.
+Replaced placeholder and unverified data with structured, verifiable company information,
+including services, milestones, client portfolio, and roadmap. Built a responsive “Clients &
+Performance” module featuring animated client logo sliders, milestone timelines, and
+data-driven visualizations. Implemented secure contact form architecture by removing exposed
+frontend database credentials and integrating server-side APIs with validation and consent
+handling. Added Privacy Policy compliant with India’s DPDP Act 2023. Ensured clean UI, mobile
+responsiveness, performance optimization, and maintainable code structure.
+Tech Stack:​
+HTML5, CSS3, JavaScript, Chart.js, Bootstrap, REST APIs, Firebase (Admin / Backend),
+Responsive Web Design
+
+Project Description (Startup / Product-Focused / Strong
+Impact)
+Owned the end-to-end revamp of Infusion Business Intelligence’s corporate website,
+transforming a template-based site into a credible, compliance-ready business platform.
+Architected a clean “Clients & Performance” section with animated logo marquees, milestone
+timelines, and performance charts while removing exaggerated KPIs. Secured user data by
+migrating contact form logic from exposed frontend database access to backend APIs with
+validation and consent tracking. Standardized branding, improved UX consistency, and
+delivered a scalable layout optimized for future growth, audits, and investor visibility.
+Key Outcomes:
+●​ Eliminated security risks caused by exposed frontend credentials​
+●​ Improved brand credibility with verified business data​
+●​ Delivered a clean, responsive, and scalable UI​
+
+●​ Added compliance-ready privacy and consent flows​
+
+Key Responsibilities (Bullet Points for Resume ATS)
+●​ Led complete website content restructuring based on official company profile​
+●​ Built animated client logo slider with fixed height and infinite scroll​
+●​ Designed milestone-based performance presentation instead of fake KPIs​
+●​ Integrated Chart.js for visual performance insights​
+●​ Implemented secure contact form with validation and backend API flow​
+●​ Added Privacy Policy aligned with DPDP Act 2023​
+●​ Optimized UI for mobile, performance, and maintainability​
+
+One-Line Resume Version (If space is tight)
+Redesigned and secured a corporate website with verified business data, performance
+visualizations, animated client modules, and DPDP-compliant privacy architecture.
+
+Audio Mixer & Control Dashboard (Flutter / FlutterFlow)
+Designed and built a professional audio-mixer interface inspired by industry tools (e.g., digital
+mixing consoles). Implemented modular channel strips with vertical draggable sliders, LED
+level indicators, mute/solo toggles, pan controls, and master mixing logic. Developed
+gesture-based interactions (up/down faders, tap/long-press buttons), animated visual
+feedback, and state-driven UI architecture. Engineered a fake real-time volume
+visualization using timers and animations, with scalable, reusable components optimized for
+tablet and desktop layouts. Structured the system for future integration with real audio engines
+(e.g., Just Audio / Flutter Sound). Focused on clean UX, responsiveness, and performance.
+Tech: Flutter, FlutterFlow, Dart, GestureDetector, AnimatedContainer, State Management,
+UI/UX Design
+
+SnappyBot – AI-Powered Restaurant Service Robot
+(Startup Project)
+Description:​
+Designed and developed SnappyBot, an AI-powered autonomous service robot for
+restaurants, aimed at reducing operational costs and enhancing customer experience. The
+robot autonomously navigates restaurant environments, interacts with customers using
+conversational AI, takes food orders, delivers dishes using a multi-tray system, and integrates
+with kitchen workflows for real-time order processing. SnappyBot also includes built-in CRM
+automation to send digital bills, collect feedback, and drive repeat customer engagement via
+WhatsApp and email.
+Key Contributions & Technologies:
+●​ Architected an end-to-end robot-as-a-service (RaaS) model with monthly subscription
+pricing for restaurants.​
+●​ Implemented autonomous navigation using SLAM, LIDAR, depth cameras, and
+obstacle avoidance.​
+●​ Integrated conversational AI (Gemini / GPT) for natural, human-like customer
+interactions.​
+●​ Built real-time kitchen integration for automated order dispatch and delivery workflows.​
+●​ Developed CRM and WhatsApp automation for billing, feedback, and customer
+retention.​
+●​ Designed a multi-tray food delivery system optimized for high-traffic restaurant
+environments.​
+●​ Focused on safety, reliability, and scalability with sensor fusion, emergency stop
+systems, and remote monitoring.​
+
+Impact:
+●​ Reduced manual service dependency and staff costs for restaurants.​
+●​ Improved service speed, customer engagement, and brand visibility through interactive
+robotic service.​
+
+●​ Enabled data-driven insights for restaurant owners via analytics and customer interaction
+logs.​
+
+Tech Stack:​
+Robotics (ROS2, SLAM), Computer Vision (OpenCV, YOLO), AI/LLMs (Gemini, ChatGPT),
+Embedded Systems (Jetson, STM32), Sensors (LIDAR, Depth Cameras), Cloud & APIs
+(WhatsApp Business API, REST, MQTT), Web Dashboards.
+
+🔹 Short Version (if you need a compact resume entry)
+SnappyBot – AI Restaurant Service Robot:​
+Built an autonomous AI-powered service robot for restaurants featuring conversational AI,
+SLAM-based navigation, automated food delivery, and CRM integration for billing and customer
+retention. Implemented a robot-as-a-service subscription model to reduce operational costs and
+improve customer engagement.
+
+✅ Project Title
+
+AI-Driven Historical Analysis Video: Roman Concrete vs Modern Concrete
+
+🏆 Version 1 — Industry-Grade (Best for MNC / Startup /
+Remote Jobs)
+
+Project Description:​
+Designed and produced a 15-minute, high-retention YouTube documentary analyzing the
+structural, chemical, and durability differences between ancient Roman concrete and modern
+concrete. Leveraged AI to synthesize archaeological research, material science studies, and
+historical texts into a cinematic, story-driven script. The project focused on explaining complex
+engineering concepts using simplified analogies, historical case studies, and data-backed
+comparisons, while maintaining audience engagement through advanced storytelling
+frameworks, psychological retention triggers, and structured pacing.
+Key Highlights:
+●​ Used AI for deep research synthesis across history, archaeology, and civil engineering​
+●​ Converted scientific and historical data into high-retention storytelling​
+
+●​ Applied professional YouTube retention frameworks (hook, tension, reveal, climax)​
+●​ Focused on sustainability and long-term infrastructure insights​
+●​ End-to-end execution: research, scripting, structuring, and narrative design​
+
+🚀 Version 2 — Creator Economy / Media / AI-Focused
+Roles
+
+Project Description:​
+Created an AI-assisted documentary-style YouTube video exploring why 2,000-year-old Roman
+concrete outperforms modern concrete in durability and longevity. Used AI to analyze historical
+texts, scientific papers, and material studies, translating them into an engaging, cinematic script
+optimized for viewer retention. The project demonstrates the practical use of AI for research
+automation, narrative intelligence, and educational content creation at scale.
+Key Highlights:
+●​ AI-powered research and script generation​
+●​ Historical + scientific data storytelling​
+●​ High-retention narrative engineering​
+●​ Educational content optimization for YouTube​
+●​ Sustainable construction insights​
+
+⚡ Version 3 — Short & Punchy (One-Paragraph Resume
+Version)
+
+Project Description:​
+Developed an AI-driven educational video comparing Roman concrete with modern concrete by
+synthesizing historical research and material science studies into a high-retention, cinematic
+YouTube script. Focused on explaining complex engineering concepts through storytelling,
+analogies, and data-backed insights while optimizing pacing, audience engagement, and
+educational clarity.
+
+🛠️ Skills This Project Signals (Recruiters WILL Notice)
+●​ AI-assisted research & content generation​
+●​ Technical storytelling​
+●​ Historical & scientific analysis​
+●​ YouTube retention engineering​
+●​ Scriptwriting & narrative design​
+●​ Educational content architecture​
+
+📦 Project: SnapKart – Full-Stack E-Commerce & Delivery
+Platform
+
+Description (Strong Resume Version):​
+Built SnapKart, a full-stack e-commerce and delivery platform similar to Amazon/Flipkart,
+designed for scalable online shopping and logistics operations. Developed responsive mobile
+and web interfaces using FlutterFlow, integrated Firebase Authentication, Firestore,
+Realtime Database, Cloud Storage, and Push Notifications. Implemented dynamic product
+listing, reels-based product discovery, cart and checkout flows, order management, seller
+dashboards, and delivery tracking. Handled real-time data updates, conditional UI rendering,
+and null-safe data handling to ensure production stability. Designed role-based flows for users,
+sellers, admins, and delivery agents with performance-optimized queries and secure backend
+logic.
+Tech Stack:​
+FlutterFlow, Firebase (Auth, Firestore, Realtime DB, Storage), JavaScript, REST APIs, Push
+Notifications, No-Code/Low-Code Automation
+
+⚡ Key Features Implemented
+●​ Product catalog with variants, pricing, stock, and media​
+
+●​ Reels-style product discovery (short-video commerce)​
+●​ User authentication & role-based access​
+●​ Cart, checkout, COD & order lifecycle management​
+●​ Seller dashboard for product & order control​
+●​ Admin panel for CMS, analytics & notifications​
+●​ Push notifications & real-time updates​
+●​ Robust null-safe UI handling for production stability​
+
+🧠 What This Shows Recruiters
+●​ You can design + build + debug real production apps​
+●​ You understand real-world data issues (nulls, async loading, auth timing)​
+●​ You can ship Amazon-like systems, not just demo apps​
+●​ You can work fast using AI + low-code tools while thinking like a full-stack engineer​
+
+✂️ Short Version (ATS / One-Line Resume)
+SnapKart: Built a full-stack e-commerce and delivery platform using FlutterFlow and Firebase,
+featuring product reels, cart & checkout, seller/admin dashboards, real-time data, and push
+notifications.
+
+Project: GigLynk – Freelance & Business Networking
+Platform
+
+Description:​
+GigLynk is a full-stack, AI-powered freelancing and business networking platform designed to
+connect freelancers, students, startups, and businesses in a single ecosystem. The platform
+allows clients to post projects, freelancers to apply for work, communicate via in-app chat, track
+project progress, and manage secure payments.
+The application focuses on solving real problems faced by students and freelancers, such as
+finding genuine work opportunities, managing projects transparently, and building professional
+credibility.
+Key Features:
+●​ Project posting and freelancer application system​
+●​ Category-based job discovery and smart matching​
+●​ Real-time chat and notifications between clients and freelancers​
+●​ Project dashboard with status tracking (Applied, Accepted, Ongoing, Completed)​
+●​ Secure payment flow with escrow-style project handling​
+●​ Freelancer profiles with skills, portfolio links, and ratings​
+●​ Admin and analytics dashboards for monitoring activity and growth​
+
+Tech Stack & Tools:
+●​ FlutterFlow (UI & App Logic)​
+●​ Firebase (Firestore, Authentication, Notifications)​
+●​ AI integrations (ChatGPT/Gemini APIs for automation features)​
+●​ Cloud-based backend architecture​
+
+Role & Responsibilities:
+●​ Designed complete app architecture and user flow​
+●​ Built UI/UX for multiple modules including dashboard, chat, projects, and profiles​
+
+●​ Implemented Firestore data models and logic for applications, projects, and messaging​
+●​ Integrated automation and AI-based service concepts​
+●​ Managed end-to-end development from idea to deployment​
+
+Impact:
+●​ Created a scalable platform supporting freelancers, students, and businesses​
+●​ Improved transparency and efficiency in freelance project management​
+●​ Designed with growth, automation, and real-world usability in mind​
+
+Routine Manager – Smart Daily Planning Web App
+Tech Stack: React.js, Tailwind CSS, Firebase (Auth + Firestore), Chart.js, Web Speech API
+Built a modern, interactive routine management dashboard that helps users plan, track, and
+analyze their daily and weekly tasks in real time.
+Key Highlights:
+●​ Designed a dashboard-style UI with clean black & white glassmorphism, responsive
+across mobile and desktop.​
+●​ Implemented email-based Firebase Authentication (sign-in only) with user existence
+validation (no signup flow).​
+●​ Added dynamic Firebase configuration support, allowing users to securely connect
+and store their data in their own Firestore.​
+●​ Built a 7-day auto-updating routine system that detects the current date and highlights
+the active day automatically.​
+●​ Implemented 5 fixed daily time slots with task cards supporting add, edit, delete,
+complete, and multi-day copy.​
+●​ Integrated real-time Firestore syncing using onSnapshot for instant UI updates.​
+
+●​ Developed progress tracking with daily completion bars, weekly analytics, and
+productivity status.​
+●​ Added interactive feedback including sound notifications, missed-task alerts (red
+highlight), and completion confetti.​
+●​ Implemented Speak Today feature using Web Speech API to read daily task summaries
+aloud.​
+●​ Enabled export and backup of routines in structured formats.​
+●​ Built a profile & settings module for managing user info, theme toggle, and Firebase
+credentials.​
+
+Impact:​
+The application provides a fast, intuitive way to manage routines with real-time updates,
+analytics, and rich interactivity—demonstrating strong frontend architecture, Firebase
+integration, and UX engineering skills.
+
+🔥 Optional shorter version (if resume space is tight)
+Routine Manager (React + Firebase)​
+Developed a real-time routine management web app with email-based authentication, dynamic
+Firebase integration, task scheduling across fixed time slots, progress analytics, speech
+feedback, and interactive UI elements. Implemented live Firestore syncing, missed-task
+detection, and exportable routine data using React, Tailwind CSS, and Firebase.
+
+Project Title
+Portable Voice-Based AI Assistant (ESP32 + Cloud AI)
+
+Project Description
+Designed and built a portable, phone-free AI assistant device using ESP32, Bluetooth audio,
+and cloud-hosted AI automation. The system enables real-time, hands-free voice interaction
+through Bluetooth earbuds, where user speech is captured via the earbud microphone,
+transmitted to a cloud-based AI agent, processed, and returned as synthesized voice output.
+The device integrates a SIM-based internet module to ensure continuous connectivity without
+relying on a smartphone. The ESP32 acts as a lightweight bridge, handling Bluetooth audio
+routing, network communication, and device orchestration, while all AI processing (speech
+
+recognition, reasoning, and voice response generation) runs on a cloud AI pipeline built using
+n8n automation workflows.
+An OLED display provides real-time system status such as connectivity, listening state, and
+response streaming. The entire system is battery-powered and enclosed in a compact case,
+making it a fully portable AI interaction device.
+This project demonstrates strong skills in IoT system design, embedded systems, Bluetooth
+audio integration, cloud AI orchestration, and real-time voice data streaming.
+
+Key Technologies
+●​ ESP32​
+●​ Bluetooth Audio Module​
+●​ SIM-based Internet Connectivity​
+●​ n8n (AI Automation & Orchestration)​
+●​ Cloud-Hosted AI (Voice In / Voice Out)​
+●​ OLED Display (I2C)​
+●​ Embedded C++ (Arduino Framework)​
+
+Key Features
+●​ Phone-independent AI assistant​
+●​ Real-time voice input and voice output​
+●​ Bluetooth earbud integration (mic + speaker)​
+●​ Always-online AI via SIM connectivity​
+●​ Low-power, portable hardware design​
+●​ Cloud-scalable AI architecture
+
+TaskMate – Student-to-Student Assignment Marketplace
+
+Role: Founder & Full-Stack App Developer​
+Tech Stack: FlutterFlow, Firebase (Auth, Firestore, Storage), Payments, Cloud Functions
+Description:​
+TaskMate is a student-focused marketplace that connects students who need help with
+homework, assignments, and projects with peers who want to earn by completing academic
+tasks. The platform enables users to post detailed work requirements (subject, class, pages,
+paper type, deadline, budget) and receive applications from verified student workers.
+I designed and built the complete product from scratch, including role-based user flows
+(Student/Worker), real-time chat, secure escrow payments, OTP-based delivery confirmation,
+and a digital/physical submission system. The app was launched in early access and supports
+scalable data models, notifications, and wallet-based transactions.
+Key Features:
+●​ Student ↔ Worker marketplace with task posting and applications​
+●​ Real-time in-app messaging with sent/delivered/read states​
+●​ Secure escrow payments and wallet system​
+●​ OTP-based in-person delivery verification​
+●​ PDF/image submission and revision workflow​
+●​ Early-access launch and user feedback iteration​
+
+Short Resume Version (2–3 lines)
+Built TaskMate, a FlutterFlow + Firebase powered marketplace connecting students who
+outsource academic work with peers who complete tasks for pay. Implemented real-time chat,
+escrow payments, OTP delivery, and role-based workflows; launched in early access.
+
+Project: Kawadi Waste Collection & Recycling App
+Description:​
+Designed and developed a full-stack waste collection and recycling platform to digitize the
+traditional kawadiwala system. The application enables users to schedule waste pickups, select
+recyclable categories, and track collection status in real time. Built a secure backend
+architecture to handle sensitive operations such as pickup workflows, agent allocation, pricing
+logic based on weight, and payment reconciliation. Implemented role-based access for users,
+
+pickup agents, and admins with real-time database synchronization. Integrated location
+services, payment gateway, notifications, and a scalable backend runtime to ensure safe
+deployments and uninterrupted testing. The system improves operational efficiency,
+transparency, and promotes sustainable waste management.
+Key Responsibilities & Technologies:
+●​ Developed User App, Pickup Partner App, and Admin Dashboard​
+●​ Backend architecture using Firebase (Auth, Firestore, Cloud Functions)​
+●​ Integrated Google Maps API for live location & routing​
+●​ Implemented payment gateway and pickup status tracking​
+●​ Designed secure backend workflows for testing and deployment​
+●​ Ensured data consistency, role-based access, and real-time updates​
+
+Tech Stack:​
+Flutter / Android, Firebase, Cloud Functions, Google Maps API, Razorpay, REST APIs
+
+Project: Boostify Admin Dashboard (AI-Driven Lead Management System)
+Description:​
+Designed and developed a fully responsive Admin Dashboard for Boostify to manage and
+analyze business leads collected through a website contact system. The dashboard integrates
+Firebase Firestore for real-time data handling and provides a modern glassmorphism-based
+UI for enhanced usability.
+Implemented features include real-time lead tracking, advanced filtering (by name, email,
+date range, and lead status), lead conversion management, and secure deletion of records.
+Built interactive data visualization dashboards using Chart.js, including line graphs for lead
+trends and conversion analytics charts to support data-driven decision-making.
+The system also supports CSV export, enabling easy reporting and offline analysis. The UI is
+optimized for desktop and mobile devices, ensuring smooth performance, fixed-height
+scrollable tables, and prevention of infinite rendering loops for stability.
+Key Technologies:​
+HTML, CSS (Glassmorphism UI), JavaScript, Firebase Firestore, Chart.js, Responsive Web
+Design
+Key Highlights:
+
+●​ Real-time lead management with Firebase​
+●​ Advanced filters & conversion tracking​
+●​ Interactive analytics dashboards​
+●​ Modern glass-effect UI​
+●​ Mobile & desktop responsive design​
+
+AI-Powered Social Media Automation Platform
+Project Description:​
+Designed and built an AI-driven social media automation system that autonomously researches
+market trends, generates platform-specific content, schedules posts, and publishes them across
+LinkedIn, Instagram, Facebook, and YouTube. The system allows users to select a niche,
+preferred posting time, and content format (text, image, reels, shorts), after which the AI agent
+continuously analyzes trending topics, creates optimized captions with hashtags, generates
+visuals/videos, and auto-posts without manual intervention. The platform supports daily posting,
+multi-platform content pipelines, and monetization-ready workflows, enabling consistent
+audience growth and scalable digital presence management.
+Key Features & Impact:
+●​ Automated trend research and content generation using AI agents​
+●​ Cross-platform auto-posting (LinkedIn, Instagram, Facebook, YouTube)​
+●​ Time-based scheduling with zero manual involvement​
+●​ AI-generated images and short-form videos (30s)​
+●​ Scalable content engine designed for audience growth and monetization​
+●​ Reduced manual content effort by 90%+ while maintaining posting consistency​
+
+Tech Stack (edit if needed):​
+AI Agents · Automation Workflows · Social Media APIs · Scheduling Systems · Content
+Generation Models · Video Generation Tools
+
+Project Title
+
+Custom Cloud Telephony CRM with Intelligent Call Routing (Twilio-based)
+
+Project Description
+Designed and developed a custom CRM integrated with cloud telephony using Twilio to manage
+high-volume inbound calls for a multi-agent sales and support team. The system handles a
+single business number that supports multiple concurrent calls and intelligently routes each call
+to available agents in real time.
+Implemented simultaneous and availability-based call routing so that incoming calls ring all free
+agents, automatically connecting the call to the first agent who answers. Built logic to handle
+parallel callers, ensuring that multiple customers can call the same number at the same time
+without busy signals, while dynamically excluding agents already on active calls.
+Developed a real-time agent dashboard to track agent status (available, busy, offline), incoming
+calls, and active conversations. Automated lead creation and assignment by linking each call to
+the agent who answered it. Implemented detailed call logs including caller details, timestamps,
+call duration, agent mapping, and call outcomes.
+Integrated automatic call recording with secure storage and playback inside the CRM for quality
+monitoring and training purposes. Built backend workflows and automations for call events, lead
+updates, and agent activity tracking. The system is fully scalable, pay-as-you-go, and optimized
+for performance and cost efficiency.
+
+Key Features
+●​ Single virtual number handling multiple simultaneous calls​
+●​ Intelligent call routing (ring-all & availability-based logic)​
+●​ Real-time agent dashboard with live call status​
+●​ Automatic lead creation and agent assignment​
+●​ Call logging, analytics, and performance tracking​
+●​ Call recording with secure playback​
+●​ Custom backend automation and webhook handling​
+●​ Scalable cloud-based architecture using Twilio APIs​
+
+Tech Stack
+●​ Twilio Programmable Voice API​
+●​ Custom CRM (Backend & Dashboard)​
+●​ REST APIs & Webhooks​
+●​ Backend Automation Platform (Anetten)​
+●​ Database for leads, agents, and call logs​
+
+Brutal mentor note (listen carefully):
+This project is strong for a resume if you actually built the routing logic, dashboards, and
+webhook handling yourself. Recruiters and founders know Twilio — what they care about is
+how you used it, not that you used it.
+
+AI-Powered Social Media Automation Platform
+Designed and developed an end-to-end AI-driven social media automation platform that
+autonomously researches market trends, generates platform-specific content, schedules posts,
+and publishes across LinkedIn, Instagram, Facebook, and YouTube. The system enables users
+to select a niche, posting frequency, preferred time slots, and content formats (text, images,
+reels, shorts), after which AI agents continuously analyze trending topics, generate optimized
+captions with hashtags, create visuals and short-form videos, and auto-publish content without
+manual intervention. The platform supports scalable multi-platform workflows, consistent daily
+posting, and monetization-ready content pipelines, significantly reducing operational effort while
+maintaining audience growth.
+Key Contributions & Impact:
+●​ Built AI agents for automated trend research and content generation​
+●​ Implemented cross-platform auto-posting and scheduling systems​
+●​ Enabled AI-generated images and short-form videos (up to 30 seconds)​
+
+●​ Designed scalable workflows for consistent brand presence and growth​
+●​ Reduced manual content creation and posting effort by 90%+​
+
+Tech Stack:​
+AI Agents · Automation Workflows · Social Media APIs · Scheduling Systems · Content
+Generation Models · Video Generation Tools
+
+Customer Testimonial Slider – Custom Shopify Section
+Designed and developed a fully customizable Customer Testimonial Slider as a reusable
+Shopify section using Liquid, HTML, CSS, and JavaScript. The section allows merchants to
+showcase customer reviews with a clean, responsive, and conversion-focused layout.
+Key features include:
+●​ Dynamic testimonial slider with autoplay, smooth transitions, and pause-on-hover
+interaction.​
+●​ Manual navigation using arrows and dot indicators.​
+●​ Fully responsive design optimized for desktop, tablet, and mobile devices.​
+●​ Theme editor customization, including:​
+○​ Editable section heading.​
+○​ Background color or image selection.​
+○​ Add/remove unlimited testimonial blocks.​
+●​ Each testimonial supports:​
+○​ Circular customer image.​
+○​ Product name.​
+○​ Review text.​
+○​ Customer name and role/position.​
+●​ Built with valid Shopify section schema, ensuring error-free saving and seamless
+integration into the Shopify theme editor.​
+
+Tech stack: Shopify Liquid, HTML5, CSS3, JavaScript
+
+Skill-Based Online Contest Platform
+(Best & safest choice)
+Project Description:​
+Designed and developed a skill-based online contest platform where users participate in paid
+challenges such as quizzes, puzzles, and prediction games. The system allows users to enter
+contests with a small entry fee, compete based on knowledge and performance, and win
+high-value rewards. Implemented secure entry management, real-time leaderboards,
+transparent winner selection logic, and automated prize distribution. The platform is designed to
+comply with Indian regulations by avoiding chance-based lottery mechanics and focusing on
+skill-driven outcomes.
+Tech Stack (optional):​
+HTML, CSS, JavaScript, Node.js, Firebase, Razorpay API
+
+Project 2: Digital Treasure Hunt Game Platform
+(Unique, not overused)
+Project Description:​
+Built a digital treasure hunt platform where participants pay an entry fee to solve multi-level
+riddles, puzzles, and logic challenges. Each level unlocks the next clue, and winners are
+determined by accuracy and completion time. The platform includes dynamic clue generation,
+time tracking, anti-cheat logic, and real-time progress monitoring. Designed to create high user
+engagement while maintaining a fully skill-based competition structure.
+
+Project 3: Prediction & Strategy Gaming Platform
+(Looks serious to recruiters)
+Project Description:​
+Developed a prediction-based gaming platform where users compete by making data-driven
+predictions on real-world events such as sports outcomes and market trends. Users pay an
+entry fee, and winners are selected based on prediction accuracy rather than random chance.
+Implemented scoring algorithms, ranking systems, and automated reward allocation, ensuring
+fairness, transparency, and scalability.
+
+Project 4: Gamified Learning & Reward System
+(If you want education + gaming angle)
+Project Description:​
+Created a gamified learning platform that combines quizzes, logic puzzles, and competitive
+challenges with real-world rewards. Users participate in paid contests that test knowledge and
+problem-solving skills, with winners ranked via performance-based leaderboards. The system
+supports timed challenges, analytics dashboards, and automated reward mechanisms, making
+learning competitive and engaging.
+
+Instagram-Style Reels Commerce Platform (Web Application)
+Designed and developed an Instagram-like Reels web application that enables sellers to
+showcase products through short vertical videos with a built-in “Shop Now” call-to-action. The
+platform supports full-screen, scroll-based reel navigation, floating action buttons, and real-time
+video playback optimized for mobile and desktop devices. Implemented a seller upload system
+with a floating “+” icon, allowing seamless video uploads that are securely stored on a Linux
+server managed via AA-Panel. The application features interactive UI elements such as like,
+share, and follow actions, along with a bottom navigation bar for improved user experience. This
+project bridges short-form video content with direct e-commerce, enabling instant product
+discovery and conversion.
+
+White-Label AI Voice Call Center Platform (SaaS)
+Project Description​
+Designed and implemented a scalable white-label AI-powered call center platform enabling
+automated inbound and outbound voice calls in Portuguese (including Angolan dialect). The
+system integrates SIP trunking, AI voice agents, CRM, and WhatsApp APIs to deliver
+end-to-end customer engagement. Built a multi-tenant dashboard with role-based access, call
+analytics, recordings, and seamless fallback to human agents. Architected as a modular SaaS
+solution with custom domain support, service tiering, and enterprise-ready scalability.
+Key Responsibilities & Achievements
+●​ Architected end-to-end AI voice call workflows (inbound & outbound) using SIP and
+Voice AI APIs​
+●​ Integrated CRM and WhatsApp Business APIs for automated lead management and
+customer follow-ups​
+
+●​ Built a white-label, multi-tenant admin dashboard for client onboarding, monitoring, and
+analytics​
+●​ Implemented human-agent fallback, call logging, recordings, and performance reporting​
+●​ Deployed and managed VPS infrastructure with static IP, security hardening, and high
+availability​
+●​ Delivered a production-ready MVP and successfully onboarded pilot clients​
+
+Tech Stack
+●​ SIP Trunking, Voice AI APIs (VAPI / Retell / Air AI)​
+●​ WhatsApp Business API (360Dialog / Gupshup)​
+●​ CRM Integrations (Zoho / HubSpot)​
+●​ VPS (Linux), REST APIs, Webhooks​
+●​ Web Dashboard (Frontend + Backend), Automation (Make / Zapier)​
+
+If you want it shorter (for 1-page resumes)
+White-Label AI Call Center SaaS​
+Built an AI-driven voice call center platform with SIP integration, automated inbound/outbound
+calling, CRM & WhatsApp API integration, and a multi-tenant white-label dashboard.
+Implemented analytics, call recordings, and human agent fallback, delivering a scalable
+commercial SaaS solution.
+
+roject: SkillTap – Unified Talent & Hiring Platform
+Description:​
+Designed and built a mobile application that connects businesses, startups, creators, and
+individuals with skilled professionals for freelance, part-time, full-time, and project-based
+work in a single platform. The system removes dependency on multiple hiring portals by
+enabling direct, location-based hiring with real-time engagement-driven discovery.
+
+The platform includes a dedicated creative & film industry module where actors, models,
+editors, and production teams can post and apply for casting calls, short-term roles, and
+production updates without agents or closed groups.
+Implemented an engagement-based feed ranking algorithm where job posts and
+opportunities gain visibility based on user interactions (views, likes, comments), ensuring fair
+reach for new posts while promoting high-interest opportunities. Built using FlutterFlow and
+Firebase, with scalable backend architecture supporting real-time updates, chat, notifications,
+and premium subscriptions.
+Key Features:
+●​ Multi-role platform (employers & talent in one app)​
+●​ Job posting for freelance, part-time, full-time & gig work​
+●​ Creative & casting marketplace for film and media professionals​
+●​ Engagement-based ranking algorithm for opportunity discovery​
+●​ Location-aware talent matching​
+●​ In-app applications, chat, and notifications​
+●​ Ad-based monetization with optional premium subscriptions​
+
+Tech Stack:​
+FlutterFlow, Firebase (Auth, Firestore, Storage, FCM), Custom Logic (Dart), AdMob, Payment
+Gateway Integration
+
+Project: SnapDrive Jobs – Driver & Customer Job
+Matching Platform
+Description (Professional):​
+Designed and developed a two-sided job marketplace connecting customers with verified
+drivers based on location and vehicle requirements. The platform allows customers to post car
+requirements, while drivers can discover jobs through smart search and location-based filtering.
+Implemented OTP-based authentication, role-based access (customer/driver),
+subscription-based contact unlocking, and automated job expiry. Built using FlutterFlow with
+Firebase backend for authentication, database, storage, and automation.
+Key Features:
+
+●​ OTP login with role-based dashboards (Customer & Driver)​
+●​ Location-based job matching and advanced search filters​
+●​ Subscription system (₹300) to unlock contact details​
+●​ Apply & approval flow before sharing contact info​
+●​ Auto-delete job posts after 7 days​
+●​ Driver document upload and profile verification​
+●​ WhatsApp and call integration for direct communication​
+
+Tech Stack: FlutterFlow, Firebase Authentication, Firestore, Firebase Storage, Cloud Functions,
+Razorpay (Payments)
+
+Project: Driver Job Posting & Subscription App
+Description (Compact):​
+Built a mobile application where customers post car/driver requirements and drivers access
+jobs via search and location matching. Integrated a paid subscription model to unlock customer
+contact details, OTP authentication, profile management, and automated job lifecycle handling.
+Tech Stack: FlutterFlow, Firebase (Auth, Firestore, Storage)
+
+Project: Location-Based Service Marketplace (SnapDrive
+Jobs)
+Description (Startup-style):​
+Created a scalable service marketplace platform enabling customers to post vehicle
+requirements and drivers to apply or subscribe for direct access. Implemented real-time filtering,
+document verification workflows, role-based access control, and automated data cleanup.
+Designed for mobile deployment and Play Store publishing.
+Tech Stack: FlutterFlow, Firebase, Android Studio
+
+Project Title: Automated Payment & Invoice Generation System
+
+Project Description:​
+Designed and developed a web-based payment simulation and automated invoice generation
+system that replicates real-world checkout and billing workflows used by enterprise platforms.
+The system captures dynamic product data, pricing, quantities, taxes, and customer details from
+a payment page, then generates a fully structured, professional PDF invoice automatically upon
+successful payment. The invoice follows industry-standard formats, including billing and
+shipping sections, itemized tables, tax calculations, payment terms, remarks, and balance due,
+ensuring accuracy and professionalism. The solution emphasizes clean UI, structured data
+handling, and automated document generation without manual intervention.
+Key Features & Responsibilities:
+●​ Built a realistic checkout and payment confirmation interface using HTML, CSS, and
+JavaScript​
+●​ Implemented dynamic data capture for products, quantity, unit price, subtotal, tax, and
+final amount​
+●​ Designed professional invoice layouts with structured tables, borders, and alignment​
+●​ Automated PDF invoice generation using jsPDF with table rendering and calculations​
+●​ Included billing & shipping sections, payment terms, tax breakdown, and balance due​
+●​ Used browser storage to securely transfer transaction data between payment and
+invoice modules​
+●​ Focused on real-world invoice standards used in enterprise billing systems​
+
+Tech Stack:​
+HTML, CSS, JavaScript, jsPDF, jsPDF-AutoTable, Browser Storage (localStorage)
+
+🔥 If you want a shorter, sharper version (for tight resumes):
+Automated Payment & Invoice System – Built a web-based checkout and invoice automation
+system that dynamically generates professional, itemized PDF invoices with tax calculations,
+billing/shipping details, and payment terms using JavaScript and jsPDF, simulating real
+enterprise billing workflows.
+
+Project: Hacker-Themed Cybersecurity Website
+
+Description:​
+Designed and developed a modern hacker-themed cybersecurity website focused on ethical
+hacking awareness and digital security education. The project features a dark, cyber-style UI
+inspired by real-world security dashboards, optimized for clarity and engagement. Implemented
+structured layouts, responsive design, and secure front-end practices to simulate a professional
+cybersecurity platform.
+The website highlights cybersecurity concepts, ethical hacking tools, and training programs with
+a strong emphasis on usability and visual impact. Special attention was given to color
+psychology (dark mode, neon accents) to align with industry-standard hacker aesthetics.
+Key Highlights:
+●​ Developed responsive UI using HTML, CSS, and JavaScript​
+●​ Designed a cybersecurity-themed interface with dark mode and neon highlights​
+●​ Focused on user experience, readability, and visual hierarchy​
+●​ Structured content for training programs and educational services​
+●​ Applied best practices for clean code and scalable layout​
+
+Tech Stack:​
+HTML, CSS, JavaScript, UI/UX Design, Responsive Web Design
+
+Project Title
+Dino Rain Jump – Progressive Browser Game with Adaptive Difficulty
+
+Project Description
+Designed and developed an interactive browser-based game using HTML, CSS, and
+JavaScript featuring real-time physics-based jumping, dynamic obstacle generation, and
+adaptive difficulty scaling. The game progressively increases speed based on player score,
+introduces randomized obstacles, and enhances user engagement through animated weather
+effects (rain, clouds) and real-time speech synthesis feedback. Implemented localStorage to
+track last score and high-score records, with voice-based appreciation for milestones and
+record-breaking performances. Optimized for both keyboard and touch input, delivering a
+smooth cross-device gameplay experience.
+
+Key Highlights (Add as bullets if needed)
+
+●​ Built real-time game logic using vanilla JavaScript (no libraries)​
+●​ Implemented adaptive difficulty (speed scaling every 600 points)​
+●​ Randomized obstacle spawning for unpredictable gameplay​
+●​ Integrated Web Speech API for voice-based encouragement and achievements​
+●​ Persistent score tracking using browser localStorage​
+●​ Responsive design supporting desktop and mobile touch controls​
+●​ Custom animations for characters, weather, and environment effects​
+
+Tech Stack
+HTML5, CSS3 (Animations & Keyframes), JavaScript (DOM, Web APIs, Speech Synthesis,
+localStorage)
+
+Admin Panel Web Application (MERN Stack)
+Project Description:
+Designed and developed a secure, role-based Admin Panel Web Application using the MERN
+stack. Implemented authentication and authorization with JWT, encrypted passwords using
+bcrypt, and protected admin-only routes. Built RESTful APIs with Node.js & Express to
+manage users, dashboard data, and system configurations. Integrated MongoDB for structured
+data storage and real-time updates. Developed a responsive React.js frontend with login,
+dashboard, and protected views. Used token-based access control, environment variables for
+security, and followed modular backend architecture for scalability.
+Key Highlights (important for recruiters):
+●​ Secure admin authentication (JWT + bcrypt)​
+●​ Role-based access & protected routes​
+●​ REST API design and database integration​
+●​ Real-time admin dashboard​
+
+●​ Scalable backend architecture​
+
+Tech Stack:​
+React.js, Node.js, Express.js, MongoDB, JWT, REST APIs, HTML, CSS, JavaScript
+
+If you want it shorter (ATS-friendly)
+Built a secure Admin Panel web application with JWT-based authentication and
+role-based access control. Developed REST APIs using Node.js and Express,
+integrated MongoDB for data management, and created a responsive React.js
+dashboard for admin operations.
+
+Project: Moses – AI-Powered Study Assistant
+Built an AI-driven educational application that personalizes learning by allowing students to
+select their class, subject, chapter, and learning format (summary, important questions, or
+previous exam questions). Designed intelligent prompt workflows to generate structured,
+syllabus-aligned academic content with visual explanations, improving concept clarity and
+revision efficiency. The platform focuses on reducing manual study effort and enabling faster,
+smarter preparation for school-level exams through automation and AI content generation.
+Gym Website Development & Annual Maintenance (Client Project)
+Designed, developed, and managed a fully responsive gym website using HTML, CSS, and
+JavaScript, leveraging AI-assisted tools to accelerate development while maintaining clean UI
+and performance. Delivered a modern fitness-focused website with optimized layouts, mobile
+responsiveness, and user-friendly navigation.
+Handled end-to-end website management for 1 year, including content updates, performance
+monitoring, basic SEO optimization, bug fixes, security checks, and feature enhancements
+based on client needs. Worked directly with the client to gather requirements, implement
+changes, and ensure continuous uptime and smooth operation.
+Key Highlights:
+●​ Built a production-ready website from scratch​
+●​ Responsive design for mobile & desktop​
+●​ Ongoing maintenance, updates, and optimization​
+
+●​ Client communication & requirement handling​
+●​ Real-world freelance project delivery​
+
+give project description to add in my resyume
+
+AI-Powered Time Management & Smart Notification Web
+App
+Project Description:​
+Designed and developed a mobile-first time management web application that allows users to
+create fully customizable daily schedules using dynamic time-slot selection (start–end time).
+Each time slot supports task definitions and triggers real-time voice reminders and
+notifications at both the start and end of activities.
+The system leverages Web Speech API for voice synthesis, Firebase Cloud Messaging
+(FCM) for reliable background push notifications on mobile devices, and Service Workers to
+ensure reminders work even when the browser is closed. All user schedules are stored locally
+for offline persistence, with full CRUD (create, edit, delete) support.
+Focused on productivity automation, habit consistency, and mobile usability.
+Key Features:
+●​ Dynamic time-slot creation with start/end selection​
+●​ Task-based reminders with voice synthesis (TTS)​
+●​ Firebase Cloud Messaging for background notifications on mobile​
+●​ Service Worker integration for persistent alerts​
+●​ Local data storage for offline access and permanent saving​
+●​ Editable and deletable schedules​
+●​ Custom notification icon & vibration support​
+●​ Mobile-optimized UI​
+
+Tech Stack:​
+HTML, CSS, JavaScript, Firebase (FCM), Service Workers, Web Speech API, LocalStorage
+
+If you want a shorter resume version (1–2 lines)
+Built a mobile-first time management web app with dynamic scheduling,
+voice-based reminders, and Firebase push notifications, supporting background
+alerts, offline storage, and full schedule customization.
+
+BRDL AI2 – AI-Powered Educational & Productivity App (Made in India)
+Role: Founder & Product Developer
+Developed BRDL AI2, a free, AI-powered mobile application designed for Indian students,
+teachers, and professionals. The app integrates 50+ AI tools to simplify learning, teaching, and
+daily academic/official tasks. Built with a strong focus on NCERT-based education,
+accessibility, and real-world usability.
+Key features include AI-powered doubt solvers (BRDL AI & NCRTAI), smart study tools, AI
+test creators (including voice-based test generation), AI video generation, text-to-handwriting
+conversion, AI readers with word highlighting, and multilingual PDF generators supporting
+English, Hindi, Sanskrit, Urdu, and Mathematics.
+The platform provides a dedicated Teacher Space to reduce workload through automated test
+creation, content generation, and digital tools, along with a Student Space offering NCERT
+e-books, competitive exam materials (IIT-JEE, UPSC, etc.), smart distraction-control AI timer,
+homework tools, and multi-video playback.
+Additionally, the app hosts 50+ animated practical projects across Physics, Chemistry,
+Biology, Mathematics, Space Science, and more, along with professional tools such as PDF
+compressors, resume makers, photo resizers, and official document utilities.
+BRDL AI2 is completely free, made in India, and focused on empowering education through
+practical AI adoption.
+Impact:
+●​ 50+ integrated AI tools​
+●​ Focused on Indian curriculum & users​
+●​ Free, scalable, and education-first AI platform
+
+ROLE TITLE (USE THIS)
+
+Founder & Program Lead — ZsnapyPro Founder Support Programme​
+(Startup Ecosystem | Execution Platform | Founder Enablement)
+
+CORE DESCRIPTION (TOP SUMMARY – 3–4 LINES)
+Founder and operator of ZsnapyPro Founder Support Programme, an execution-first startup
+ecosystem supporting early-stage founders with free technology, AI tools, growth support,
+and go-to-market execution. Built and managed a 1,000+ member founder and builder
+community, delivering real-world startup support across product, tech, marketing, and
+operations.
+
+DETAILED RESPONSIBILITIES & ACHIEVEMENTS
+(use bullets exactly like this)
+●​ Designed and launched an execution-focused founder support ecosystem, moving
+beyond advisory into hands-on startup building and implementation.​
+●​ Built and managed a 1,000+ member community of startup founders, freelancers, AI
+developers, and tech operators across WhatsApp and social platforms.​
+●​ Led selection-based founder onboarding, evaluating startup ideas, execution
+readiness, and scalability before providing support.​
+●​ Delivered end-to-end startup support including:​
+○​ Website and landing page development​
+○​ AI tools and automation setup​
+○​ Product and MVP guidance​
+○​ Meta ads strategy and campaign execution​
+○​ Peer-driven marketing and distribution support​
+●​ Created structured founder workflows, roadmaps, and execution playbooks to help
+founders move from idea → MVP → early traction.​
+
+●​ Coordinated cross-functional teams (developers, designers, marketers, AI specialists) to
+support multiple founders simultaneously.​
+●​ Implemented builder-first community structures (founders, builders, collaborators) to
+drive real collaboration instead of passive networking.​
+●​ Organized and planned execution-driven founder initiatives, including startup
+reviews, live build sessions, and growth experiments.​
+●​ Collected and analyzed real startup performance insights, documenting what worked
+and failed to improve future founder outcomes.​
+●​ Positioned the platform as a startup operating layer, not a course or incubator, focused
+on measurable execution.​
+
+AGENCY + PLATFORM EXPERIENCE (OPTIONAL
+SECTION)
+Founder — ZsnapyPro (Agency & Platform)
+●​ Built and scaled a digital and AI services agency delivering web, automation, AI, and
+growth solutions for startups and businesses.​
+●​ Transitioned the agency into a platform-driven founder support model, leveraging
+internal tools, systems, and teams.​
+●​ Used agency execution capability as a backend engine to support early-stage founders
+at zero upfront cost.​
+●​ Managed client delivery, internal team operations, and parallel platform development.​
+
+SKILLS & CAPABILITIES (RESUME-FRIENDLY)
+●​ Startup Ecosystem Building​
+●​ Founder Enablement & Selection​
+
+●​ Product & MVP Execution​
+●​ AI Tools & Automation​
+●​ Growth Strategy & Meta Ads​
+●​ Community Building (1,000+ members)​
+●​ Cross-functional Team Leadership​
+●​ Platform & Program Design​
+●​ Early-Stage Startup Operations​
+
+IMPACT STATEMENT (OPTIONAL BUT POWERFUL)
+Built a founder-first execution ecosystem enabling early-stage startups to access
+technology, growth, and operational support without upfront cost, while maintaining
+structured selection and execution discipline.
+
+HARD ADVICE (IMPORTANT)
+●​ Do NOT write “mentored founders” — sounds soft​
+●​ Use “built, led, executed, designed, delivered”​
+●​ This resume positions you as:​
+○​ Founder​
+○​ Operator​
+○​ Ecosystem builder​
+Not a coach. Not a consultant.​
+
+Below are resume-ready, professional descriptions of your work.​
+These are written to position you as a builder, operator, and system owner — not a beginner
+
+or freelancer.​
+You can paste them directly into your resume or LinkedIn.
+
+Founder & CEO — Z Snappy Pro
+AI-Powered Media & E-commerce Systems
+●​ Founded and led Z Snappy Pro, an execution-driven AI and media agency focused on
+scalable digital assets, e-commerce education, and automation-first workflows.​
+●​ Designed and launched structured e-commerce training programs, guiding beginners
+from zero to live product listings and paid ad execution across multiple platforms.​
+●​ Built repeatable systems for Amazon, Flipkart, Meesho, and Shopify seller
+onboarding, product research, sourcing, listing optimization, and scaling.​
+●​ Integrated AI tools (ChatGPT, AI image generation, research automation) into
+business workflows to improve speed, accuracy, and conversion performance.​
+●​ Operated with a systems-first mindset: SOPs, templates, checklists, and automation to
+reduce dependency on manual effort.​
+
+E-commerce Trainer & Program Architect
+Beginner to Revenue-Ready Seller Enablement
+●​ Created a 30-day, 12-class E-commerce Mastery Program (2 hours per class)
+covering fundamentals to advanced execution.​
+●​ Delivered live training on:​
+○​ Seller account creation & compliance​
+○​ Product research & validation​
+○​ Supplier sourcing & negotiation​
+○​ Pricing, margin planning & fee analysis​
+
+○​ SEO-optimized product listing creation​
+○​ Paid advertising fundamentals (PPC)​
+●​ Enabled students to launch real products, run ads, and understand revenue mechanics
+instead of theory-only learning.​
+●​ Designed curriculum suitable for direct execution, not passive consumption.​
+
+AI Workflow & Automation Strategist
+●​ Implemented AI-assisted research systems for product validation, keyword analysis,
+pricing simulations, and listing optimization.​
+●​ Leveraged AI image generation to create compliant product images, lifestyle creatives,
+and infographics for e-commerce listings.​
+●​ Built prompt frameworks and SOPs allowing non-technical users to use AI effectively for
+business outcomes.​
+●​ Focused on reducing time-to-market and improving decision quality using AI-driven
+insights.​
+
+Digital Product & Course Builder
+●​ Conceptualized, validated, and launched paid digital courses using lean pricing models
+and high-value bonuses to maximize adoption.​
+●​ Designed lead qualification systems using Google Forms, payment links, and
+WhatsApp onboarding workflows.​
+●​ Structured offerings with clear value stacking (low entry price + high perceived value
+through tools, access, and support).​
+●​ Managed end-to-end lifecycle: idea → validation → curriculum → onboarding → delivery.​
+
+Agency & Operations Lead
+●​ Operated in multiple leadership modes: CEO (vision), COO (execution), Product
+Manager (curriculum & UX), and Growth Strategist (scalability).​
+●​ Built operational discipline through:​
+○​ Clear execution timelines​
+○​ Defined deliverables​
+○​ Process documentation​
+●​ Prioritized asset ownership, leverage, and long-term scalability over short-term
+freelancing or one-off services.​
+
+Optional One-Line Summary (Top of Resume)
+Founder & E-commerce Systems Builder with hands-on experience designing
+AI-powered workflows, training sellers from zero to revenue, and building scalable digital
+education products.
+https://infusionbi.com/
+https://consultinstaura.site/
+https://zsnapypro.framer.website/
+https://skillyterns.odoo.com/
+https://brewnopia.odoo.com/
+
+

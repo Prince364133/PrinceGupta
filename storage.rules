@@ -1,0 +1,80 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    
+    // Helper function to check if user is admin
+    function isAdmin() {
+      return request.auth != null && 
+             firestore.get(/databases/(default)/documents/admin/$(request.auth.uid)).data.role == 'admin';
+    }
+    
+    // Validate file size (max 10MB)
+    function isValidSize() {
+      return request.resource.size < 10 * 1024 * 1024;
+    }
+    
+    // Validate image file type
+    function isImage() {
+      return request.resource.contentType.matches('image/.*');
+    }
+    
+    // Validate video file type
+    function isVideo() {
+      return request.resource.contentType.matches('video/.*');
+    }
+    
+    // Images folder - public read, admin write
+    match /images/{allPaths=**} {
+      allow read: if true;
+      allow write: if isAdmin() && isValidSize() && isImage();
+    }
+    
+    // Videos folder - public read, admin write
+    match /videos/{allPaths=**} {
+      allow read: if true;
+      allow write: if isAdmin() && isValidSize() && isVideo();
+    }
+    
+    // Projects folder - public read, admin write
+    match /projects/{allPaths=**} {
+      allow read: if true;
+      allow write: if isAdmin() && isValidSize();
+    }
+    
+    // Startups folder - public read, admin write
+    match /startups/{allPaths=**} {
+      allow read: if true;
+      allow write: if isAdmin() && isValidSize();
+    }
+    
+    // Media folder - public read, admin write
+    match /media/{allPaths=**} {
+      allow read: if true;
+      allow write: if isAdmin() && isValidSize();
+    }
+    
+    // Resumes folder - public read, admin write
+    match /resumes/{allPaths=**} {
+      allow read: if true;
+      allow write: if isAdmin() && request.resource.contentType == 'application/pdf' && request.resource.size < 10 * 1024 * 1024;
+    }
+    
+    // Blogs folder - public read, admin write
+    match /blogs/{allPaths=**} {
+      allow read: if true;
+      allow write: if isAdmin() && isValidSize() && isImage();
+    }
+    
+    // Profile folder - public read, admin write
+    match /profile/{allPaths=**} {
+      allow read: if true;
+      allow write: if isAdmin() && isValidSize() && isImage();
+    }
+    
+    // Testimonials folder - public read, admin write
+    match /testimonials/{allPaths=**} {
+      allow read: if true;
+      allow write: if isAdmin() && isValidSize() && isImage();
+    }
+  }
+}
